@@ -1,0 +1,753 @@
+network,start,end,years,stations,description
+XA,1987-01-01,1988-12-31,2.0,80,"PANDA -- San Juan, Argentina Experiment"
+XE,1989-01-01,1992-12-31,4.0,40,PANDA -- New Madrid Experiment
+XA,1990-01-01,1990-12-31,1.0,60,"Piñon Flats Small Aperture Array, High Frequency Array"
+ZY,1990-01-01,2025-12-31,36.0,93,Portable Southern California Seismic Networks
+XA,1991-01-01,1991-12-31,1.0,28,"Piñon Flats Small Aperture Array, Broadband Triggered Array"
+XC,1991-01-01,1992-12-31,2.0,11,Tibetan Plateau Passive-Source Experiment
+XA,1992-01-01,1992-12-31,1.0,12,Joshua Tree Aftershock
+XB,1992-01-01,1992-12-31,1.0,23,Landers Aftershocks
+XG,1992-01-01,1992-12-31,1.0,36,Rocky Mountain Front II
+7B,1993-01-01,1996-12-31,4.0,37,SKIPPY
+XA,1993-01-01,1993-12-31,1.0,10,Non Proliferation Experiment (Chemical Kiloton at NTS)
+XB,1993-01-01,1995-12-31,3.0,12,Southwest Pacific Seismic Experiment
+XC,1993-01-01,1993-12-31,1.0,74,PANDA -- Hawaii Experiment
+XV,1993-01-01,1996-12-31,4.0,16,ICEMELT Broadband Seismometer Experiment
+XZ,1993-01-01,1994-12-31,2.0,69,Cascadia/SEED reformat
+XA,1994-01-01,1994-12-31,1.0,86,Northridge Aftershock Studies
+XC,1994-01-01,1994-12-31,1.0,15,Olympics
+XD,1994-01-01,1995-12-31,2.0,21,Seismic investigations of the Lithospheric Structure of the Tanzanian Craton
+XE,1994-01-01,1995-12-31,2.0,23,BBand Andean Joint Exp. / Seismic Exploration of Deep Andes
+XH,1994-01-01,1995-12-31,2.0,13,"Colorado Plateau-Great Basin Network, Basin & Range Add On"
+XL,1994-01-01,1994-12-31,1.0,24,Sierras Broadband II
+XP,1994-01-01,1995-12-31,2.0,14,"High resolution experiment along the Hikurangi subduction zone in New Zealand, Taupo Volcanic Zone"
+XR,1994-01-01,1994-12-31,1.0,13,INDEPTH II
+XA,1995-01-01,1996-12-31,2.0,19,Missouri to Massachusetts Array
+XC,1995-01-01,1996-12-31,2.0,71,Cooperative Project on South Island New Zealand
+XF,1995-01-01,1996-12-31,2.0,27,"Antarctic Microearthquake Project, Monitoring of Ice Stream C, West Antarctica"
+XG,1995-01-01,1996-12-31,2.0,73,"Nanga Parbat Pakistan, Crustal Reworking During Orogeny: An Active System Himalayan Perspective"
+XM,1995-01-01,1996-12-31,2.0,10,Wabash Valley Array Study
+XB,1996-01-01,1996-12-31,1.0,28,A study of the Abitibi-Greenville lithoshpere by teleseismic analyses
+XD,1996-01-01,1998-12-31,3.0,33,Seismic study of the Iceland hotspot
+XK,1996-01-01,1996-12-31,1.0,21,"Chicxulub Impact Crater, Yucatan"
+XN,1996-01-01,1996-12-31,1.0,10,Irian Jaya RAMP
+XU,1996-01-01,1997-12-31,2.0,15,Broadband Crust/Upper Mantle Studies Around New Zealand
+XA,1997-01-01,1999-12-31,3.0,82,"Anatomy of an Archean Craton, South Africa, A Multidisciplinary Experiment across the Kaapvaal Craton"
+XB,1997-01-01,1999-12-31,3.0,12,"Seismic Experiment in Patagonia and Antarctica, A Broadband study of the tectonics and structure of the Antarctic Peninsula and Scotia Sea Regions"
+XJ,1997-01-01,1997-12-31,1.0,24,The Sierran Paradox Experiment
+XL,1997-01-01,1997-12-31,1.0,81,An asthenosphere-lithosphere probe in North America
+XR,1997-01-01,1999-12-31,3.0,62,INDEPTH-III
+XT,1997-01-01,1998-12-31,2.0,33,Colorado BB Array - Lodore
+XV,1997-01-01,1998-12-31,2.0,15,"Seismic Monitoring of Gatun Dam, Panama Canal"
+XW,1997-01-01,2001-12-31,5.0,28,Multidisciplinary Investigation of the Mountain Building in the Tien Shan
+XY,1997-01-01,1998-12-31,2.0,11,Northern Baja Transect
+XI,1998-01-01,1999-12-31,2.0,19,Study of Changbai Volcanoes and Deep Subduction Zone
+XJ,1998-01-01,1999-12-31,2.0,30,Side Edge of Kamchatka Subduction
+XL,1998-01-01,1998-12-31,1.0,41,Santa Clara Valley Fill structure
+XN,1998-01-01,1999-12-31,2.0,83,Los Angeles Region Seismic Experiment -- Passive Phase
+YA,1998-01-01,2000-12-31,3.0,143,"Crustal Structure of Coso Geothermal Field, California"
+YB,1998-01-01,1999-12-31,2.0,32,Broad Band Array Study in South Africa
+XD,1999-01-01,2000-12-31,2.0,19,Natural Seismicity Investigation of Active Continental Breakup in the Woodlark Basin
+XE,1999-01-01,2001-12-31,3.0,37,Broadband Experiment Across the Alaska Range
+XG,1999-01-01,2001-12-31,3.0,29,Eastern Turkey Seismic Experiment: Lithospheric Structure in an Active Continental Collision Zone
+XK,1999-01-01,2000-12-31,2.0,51,Lithospheric Structure and Evolution of the Rocky Mountain Transect
+XL,1999-01-01,2001-12-31,3.0,74,San Francisco/Oakland Dense Array 2000
+XM,1999-01-01,2001-12-31,3.0,58,Colorado Plateau/Rio Grand Rift/Great Plains Seismic Transect
+XS,1999-01-01,2001-12-31,3.0,36,Montana BB Array
+XU,1999-01-01,2000-12-31,2.0,10,Trans-Antarctic
+XV,1999-01-01,2000-12-31,2.0,30,Seismic Profile Across Kilauea Volcano's East Rift Zone
+XY,1999-01-01,2001-12-31,3.0,22,Imaging the Seismogenic Zone with Geodesy and Seismology
+YF,1999-01-01,2002-12-31,4.0,10,Midsea - Mantle Investigation of the Deep Suture between Eurasia and Africa
+YG,1999-01-01,2004-12-31,6.0,11,South Bay Seismic Array
+YH,1999-01-01,2003-12-31,5.0,13,Imaging Galapagos Upwelling & Neotectonics of the Archipelago
+YJ,1999-01-01,2000-12-31,2.0,33,RAMP Response to Turkey
+XB,2000-01-01,2002-12-31,3.0,96,Array studies of anisotropy and converted phases in the Marlborough Fault Zone of New Zealand
+XC,2000-01-01,2001-12-31,2.0,47,Geodynamics of the Yellowstone Hotspot from Seismic and GPS imaging
+XF,2000-01-01,2001-12-31,2.0,31,Laramie Telemetered Broad-band Array
+XI,2000-01-01,2002-12-31,3.0,38,Seismic Investigation of Deep Structure Beneath the Ethiopian Plateau and Afar Depression
+XN,2000-01-01,2002-12-31,3.0,61,Parkfield Passive Seismic Array
+XP,2000-01-01,2004-12-31,5.0,45,A Broadband Seismic Investigation of Deep Continental Structure Across the East-West Antarctic Boundary
+YC,2000-01-01,2002-12-31,3.0,24,Slab Geometry in the Southern Andes
+YV,2000-01-01,2003-12-31,4.0,13,North East Atlantic Tomography
+YY,2000-01-01,2001-12-31,2.0,47,NCISP1
+2A,2001-01-01,2002-12-31,2.0,18,"Gravity Lineations, Intraplate Melting, Petrologic and Seismic Expedition"
+XD,2001-01-01,2001-12-31,1.0,11,"Broadband Seismic Studies of Dome Growth at Merapi Volcano, Indonesia"
+XH,2001-01-01,2001-12-31,1.0,28,START
+XK,2001-01-01,2003-12-31,3.0,24,Reflections Under the Scottish Highlands: A Broadband Investigation of Upper Mantle Reflectors in Scotland
+XQ,2001-01-01,2002-12-31,2.0,82,"Hikurangi Subduction System (New Zealand) Seismic Transects, North Island Geophysical Transect Passive"
+XR,2001-01-01,2002-12-31,2.0,28,The Florida to Edmonton Broadband Experiment
+XT,2001-01-01,2002-12-31,2.0,28,Tonga-Fiji Dual Array Experiment
+YA,2001-01-01,2001-12-31,1.0,10,Bhuj Aftershock Study
+YD,2001-01-01,2001-12-31,1.0,873,Shallow Shear-Velocity Variation Across the Reno Metro Area
+YJ,2001-01-01,2003-12-31,3.0,31,Ethiopia-Afar Geoscientific Lithospheric Experiment
+YL,2001-01-01,2002-12-31,2.0,29,"Himalayan Seismotectonics, Nepal and Tibet"
+YO,2001-01-01,2002-12-31,2.0,121,Taranaki
+ZM,2001-01-01,2002-12-31,2.0,24,"Southeast Indian Ridge, EW-0114"
+ZN,2001-01-01,2003-12-31,3.0,12,Enola Arkansas Aftershock Study
+ZQ,2001-01-01,2003-12-31,3.0,41,NCISP2
+XD,2002-01-01,2006-12-31,5.0,14,Broadband Seismic Experiment in Various Regions in China
+XE,2002-01-01,2002-12-31,1.0,21,Torfajokull 2002
+XF,2002-01-01,2005-12-31,4.0,189,Collaborative Research: Lithospheric Scale Dynamics of Active Mountain Building along the Himalayan-Tibetan Collision Zone
+XG,2002-01-01,2008-12-31,7.0,27,A Comparative Study of Natural and Man-Induced Seismicity in the Yanquing-Huailai Basin and the Haicheng Area
+XH,2002-01-01,2003-12-31,2.0,50,Integrated Seismological Studies of Crust and Upper Mantle Structure in Western Anatolia
+XJ,2002-01-01,2003-12-31,2.0,55,Ethiopian Afar Geophysical Lithospheric Experiment
+XL,2002-01-01,2007-12-31,6.0,11,COnsortium for Arizona Reconnaissance Seismic Experiment
+XM,2002-01-01,2003-12-31,2.0,91,Ethiopia-Afar Geoscientific Lithospheric Experiment 6TD Passive Array
+XS,2002-01-01,2002-12-31,1.0,35,Embayment Seismic Excitation Experiment
+YM,2002-01-01,2003-12-31,2.0,14,Denali Fault Aftershocks RAMP
+YW,2002-01-01,2004-12-31,3.0,10,Cape Verde Mantle Structure
+ZU,2002-01-01,2002-12-31,1.0,12,"Shear Wave Studies of Hydrate Ridge, Oregon Continental Margin"
+1V,2003-01-01,2015-12-31,13.0,43,Temporary Accelerometric Network in Basilicata region for Site Effect studies
+XE,2003-01-01,2004-12-31,2.0,71,Geodynamics of Indentor Corners
+XI,2003-01-01,2004-12-31,2.0,29,TAG Hydrothermal Mound Passive Seismic Experiment
+XN,2003-01-01,2005-12-31,3.0,59,Collaborative Research: Canadian Northwest Seismic Experiment
+XO,2003-01-01,2004-12-31,2.0,20,US-Japan Collaborative Research: Multi-scale seismic imaging of the Mariana Subduction Factory
+XQ,2003-01-01,2005-12-31,3.0,11,Oregon Array for Teleseismic Study
+XS,2003-01-01,2003-12-31,1.0,20,Source Phenomenology Experiments in Arizona
+XT,2003-01-01,2005-12-31,3.0,198,Crust-Mantle Interactions during Continental Growth and High-Pressure Rock Exhumation at an Oblique Arc-Continent Collision Zone: SE Caribbean Margin
+XV,2003-01-01,2006-12-31,4.0,11,Collaborative research of the Earth's largest icebergs
+XZ,2003-01-01,2004-12-31,2.0,13,DHOFAR Seismic Experiment
+YA,2003-01-01,2004-12-31,2.0,25,"Collaborative research in Eastern Tibet: Evolution and dynamics of the crust and mantle, and surface topography."
+YB,2003-01-01,2003-12-31,1.0,12,"Puerto Plata, Dominican Republic Aftershock Study - RAMP"
+YD,2003-01-01,2006-12-31,4.0,46,Calabria-Appennine-Tyrrhenian/Subduction-Collision-Accretion Network
+YI,2003-01-01,2006-12-31,4.0,51,"Retreating-Trench, Extension, and Accretion LTectonics: A Multidisciplinary Study of the Northern Apennines"
+YK,2003-01-01,2018-12-31,16.0,25,Investigation of Crustal Structure and Site Response in the San Francisco North Bay
+YO,2003-01-01,2006-12-31,4.0,49,Broadband Tomography Under Costa Rica and Nicaragua
+YR,2003-01-01,2003-12-31,1.0,175,Petrophysical and Seismic Properties of Faroes Basalts
+YY,2003-01-01,2004-12-31,2.0,40,Mariana Subdction Factory Experiment
+ZP,2003-01-01,2003-12-31,1.0,1484,"Shear-Velocity Profile Along the San Gabriel River, Southern CA"
+ZX,2003-01-01,2004-12-31,2.0,47,NCISP3
+5G,2004-01-01,2010-12-31,7.0,17,Dongbei Broadband Network
+X9,2004-01-01,2007-12-31,4.0,36,"Monitoring an active rift system at the front of the Amery Ice Shelf, East Antarctica"
+XJ,2004-01-01,2006-12-31,3.0,100,Seismic Experiment in the Aisen Region of Chile
+XK,2004-01-01,2006-12-31,3.0,18,RISTRA 1.5 -- Colorado Plateau Extension
+XR,2004-01-01,2007-12-31,4.0,16,CSEDI: Observational and Theoretical Constraints on the Structure and Rotation of the Inner Core
+XU,2004-01-01,2004-12-31,1.0,750,Experiment 0413 Central Walker Lane aka 2004 Idaho-Nevada-California Transect
+XY,2004-01-01,2004-12-31,1.0,22,"Seismic Imaging of Fractures at Krafla, Iceland"
+YB,2004-01-01,2004-12-31,1.0,200,Cavola a Broadband Dense Array on a Landslide
+YH,2004-01-01,2007-12-31,4.0,13,Seismic tomography and location calibration around the SAFOD site
+YJ,2004-01-01,2006-12-31,3.0,63,"Studies of crust and upper mantle structure, mantle flow and geodynamics of the Chile Ridge subduction zone"
+YM,2004-01-01,2005-12-31,2.0,11,Columbia Glacier Passive Seismic Experiment
+YQ,2004-01-01,2005-12-31,2.0,29,"Northwest Nevada Seismic Experiment, Deep crustal structure of the northernmost Basin and Range and its relation to extensional faulting"
+YS,2004-01-01,2007-12-31,4.0,72,Plume Lithosphere Undersea Melt Experiment
+YT,2004-01-01,2005-12-31,2.0,43,Parkfield Trapped Waves
+YV,2004-01-01,2005-12-31,2.0,15,Parkfield 2004 Aftershock Guided Waves
+ZG,2004-01-01,2004-12-31,1.0,14,"Tidal modulation of ice stream flow, Tides B Upstream"
+ZH,2004-01-01,2004-12-31,1.0,14,"Tidal modulation of ice stream flow, Tides B Grounding Line"
+X2,2005-01-01,2006-12-31,2.0,50,NCISP4
+XB,2005-01-01,2007-12-31,3.0,32,Broadband Seismic Investigation of the Cameroon Volcanic Line
+XE,2005-01-01,2007-12-31,3.0,97,Sierra Nevada EarthScope Project
+XI,2005-01-01,2005-12-31,1.0,84,3D Tomographic Imaging of the Chicxulub Crater
+XM,2005-01-01,2006-12-31,2.0,25,ALPASS
+XO,2005-01-01,2005-12-31,1.0,27,Eastern Black Sea Seismic Experiment
+XP,2005-01-01,2007-12-31,3.0,40,Discrete vs. Continuous Continental Deformation and the Role of the Lower Crust in the Tien Shan
+XS,2005-01-01,2005-12-31,1.0,64,San Jose Microtremor 2005
+XY,2005-01-01,2006-12-31,2.0,46,Magma Accretion and the Formation of Batholiths
+XZ,2005-01-01,2012-12-31,8.0,22,Collaborative Research: St. Elias Erosion/Tectonics Project
+YA,2005-01-01,2005-12-31,1.0,32,Torfajokull 2005
+YB,2005-01-01,2006-12-31,2.0,19,Mount Saint Helens Dense Array
+YG,2005-01-01,2007-12-31,3.0,61,Carpathian Basins Project Regional Array
+YL,2005-01-01,2008-12-31,4.0,39,"Continental lithospheric deformation along a major strike-slip fault zone: the central North Anatolian Fault Zone, Turkey"
+YR,2005-01-01,2007-12-31,3.0,30,Dhofar Seismic Experiment II
+YW,2005-01-01,2005-12-31,1.0,11,Stalking Cascadia episodic tremor and slip with enhanced GPS and seismic arrays
+YY,2005-01-01,2007-12-31,3.0,14,Norway 05
+YZ,2005-01-01,2007-12-31,3.0,12,Boina Broadband Network
+ZC,2005-01-01,2005-12-31,1.0,50,Mt. St.Helens Temporary Array 2005
+ZD,2005-01-01,2006-12-31,2.0,13,Tides E 2005
+ZF,2005-01-01,2006-12-31,2.0,16,"Tidal modulation of ice stream flow, Tides"
+ZG,2005-01-01,2005-12-31,1.0,395,Northern Nevada-Utah Transect
+4P,2006-01-01,2018-12-31,13.0,1163,NSF EarthScope USArray Magnetotelluric Transportable and Backbone Arrays
+XC,2006-01-01,2010-12-31,5.0,118,Collaborative Research: Understanding the causes of continental intraplate tectonomagmatism: A case study in the Pacific Northwest
+XF,2006-01-01,2007-12-31,2.0,51,Mapping the Rivera Subduction Zone
+XQ,2006-01-01,2006-12-31,1.0,94,"Collaborative Research: Understanding Fault Zone Compliance by Seismic Probing of InSAR Anomalies, Mojave Fault-Zone Compliance"
+XS,2006-01-01,2009-12-31,4.0,87,Multi-disciplinary Experiments for Dynamic Understanding of Subduction under the Aegean Sea
+XU,2006-01-01,2012-12-31,7.0,72,"Collaborative Research: Earthscope integrated investigations of Cascadia subduction zone tremor, structure and process"
+Y5,2006-01-01,2018-12-31,13.0,22,Canadian Rockies and Alberta Network
+Y6,2006-01-01,2012-12-31,7.0,20,Behavior of supraglacial lakes and their role in outlet glacier dynamics and mass balance of the Greenland Ice Sheet
+YC,2006-01-01,2010-12-31,5.0,17,Partnership in Research and Education in Volcanology
+YF,2006-01-01,2006-12-31,1.0,37,SCANLIPS
+YM,2006-01-01,2009-12-31,4.0,68,Taiwan Supplement #2 to TAIGER project
+YT,2006-01-01,2006-12-31,1.0,20,Herdubreid 2006
+YU,2006-01-01,2014-12-31,9.0,22,Northern California Delta
+YV,2006-01-01,2009-12-31,4.0,34,Multidisciplinary Observations Of Subduction
+Z8,2006-01-01,2008-12-31,3.0,64,NCISP5
+ZA,2006-01-01,2008-12-31,3.0,22,The Colima Deep Seismic Experiment: Imaging the Magmatic Root of Colima Volcano
+ZG,2006-01-01,2009-12-31,4.0,30,Origin of the Columbia River Basalts and Uplift of the Wallowa Mountains
+ZO,2006-01-01,2006-12-31,1.0,10,Seismic Monitoring of Greenland's Melting Ice Sheet
+ZU,2006-01-01,2007-12-31,2.0,11,PASSEQ
+1A,2007-01-01,2008-12-31,2.0,60,NCISP6
+3A,2007-01-01,2007-12-31,1.0,114,"Southern Okalahoma Aulcaogen 3-D test, Spears Ranch Seismic Experiment Survey"
+4F,2007-01-01,2011-12-31,5.0,45,Askja 2007
+5I,2007-01-01,2017-12-31,11.0,28,Desert Peak EGS
+6A,2007-01-01,2007-12-31,1.0,204,Seismic Experiment Active Caribbean Andesite Lava Island Precision Seismo-geodetic Observatory
+X1,2007-01-01,2008-12-31,2.0,15,Aysen Chile Aftershock Deployment
+X4,2007-01-01,2009-12-31,3.0,97,Deep Structure of the Northeastern Tibet Collision Zone: INDEPTH IV
+X5,2007-01-01,2011-12-31,5.0,18,Hudson Bay Lithospheric Experiment
+X6,2007-01-01,2009-12-31,3.0,44,SLIP - Seismic Lithospheric Imaging of the Puna Plateau
+XH,2007-01-01,2007-12-31,1.0,20,Hawaiian South Flank Slow EQ Project
+XI,2007-01-01,2010-12-31,4.0,16,Collision of the Burma Arc accretionary prism and foldbelt with the Ganges-Brahmaputra Delta in Bangladesh
+XJ,2007-01-01,2007-12-31,1.0,141,Tomo TEIDEVS
+XN,2007-01-01,2007-12-31,1.0,946,Deep Structure of the Nortwaster Tibet Collison Zone
+XO,2007-01-01,2009-12-31,3.0,32,INDEPTH IV
+XQ,2007-01-01,2009-12-31,3.0,76,Seismic and Geodetic Investigations of Mendocino Triple Junction Dynamics
+Y1,2007-01-01,2009-12-31,3.0,14,SCANLIPS2
+Y2,2007-01-01,2011-12-31,5.0,31,Collaborative Research: Imaging the Upper Mantle Beneath the Western Tibetan Plateau
+Y3,2007-01-01,2007-12-31,1.0,46,"Studies of crust and upper mantle structure, mantle flow and geodynamics of the Chile Ridge subduction zone"
+Y7,2007-01-01,2008-12-31,2.0,30,Seismic Experiment Active Caribbean Andesitic Lava Island Perscison Seismio-Geodetic Observatory
+Y8,2007-01-01,2007-12-31,1.0,176,MDS-AKA Kirkland and MDS
+YF,2007-01-01,2008-12-31,2.0,19,Recognition of the lithosphere-asthenosphere system in the transition between Proterozoic and Phanerozoic Europe - Passive Seismic Experiment in TESZ 2006-2007
+YT,2007-01-01,2028-12-31,22.0,66,IPY POLENET-Antarctica: Investigating links between geodynamics and ice sheets
+YW,2007-01-01,2010-12-31,4.0,23,Resolving structural control of episodic tremor and slip along the length of Cascadia
+Z5,2007-01-01,2007-12-31,1.0,2740,Discrete vs. Continuous Continental Deformation and the Role of the Lower Crust in the Tien Shan
+ZB,2007-01-01,2009-12-31,3.0,133,Sumatra Segmentation and Aftershocks Deployment
+ZD,2007-01-01,2009-12-31,3.0,52,Seismcity of Quebrada-Discovery-gofur- Transforms ( QDG)
+ZE,2007-01-01,2009-12-31,3.0,19,AFAR07
+ZF,2007-01-01,2009-12-31,3.0,36,Afar Consortium Network
+ZL,2007-01-01,2009-12-31,3.0,45,Lithospheric Structure and Deformation of the Flat Slab Region of Argentina
+ZM,2007-01-01,2013-12-31,7.0,30,"A Broadband Seismic Experiment to Image the Lithosphere beneath the Gamburtsev Mountains, East Antarctica"
+ZO,2007-01-01,2007-12-31,1.0,29,Seismo-Acoustic data collection near Salt Lake
+ZP,2007-01-01,2009-12-31,3.0,37,Africa Array- Uganda/Tanzania
+ZV,2007-01-01,2007-12-31,1.0,16,Mid Ocean Volcanoes & Earthquakes
+ZW,2007-01-01,2009-12-31,3.0,25,Erebus Tomography and Source Studies
+1C,2008-01-01,2008-12-31,1.0,400,Study of the Crustal Structure of Northern Vietnam
+1D,2008-01-01,2009-12-31,2.0,122,Erebus Tomography and Source Studies
+1F,2008-01-01,2008-12-31,1.0,36,Taiwan Geodynamics Project - TAIGER 2008 SP Piggyback
+5B,2008-01-01,2008-12-31,1.0,122,HLP 3C Piggy Back RT130
+8B,2008-01-01,2009-12-31,2.0,64,NCISP7
+9F,2008-01-01,2020-12-31,13.0,17,Southern Alps Microearthquake Borehole Array - part 2
+9G,2008-01-01,2010-12-31,3.0,95,Western Canada Regional Long Period MT Surveys
+X9,2008-01-01,2011-12-31,4.0,20,Dallas Earthquake Swarm
+XH,2008-01-01,2010-12-31,3.0,12,"Eastern Sierras Pampeanas, Lithospheric Structure above the variably dipping Nazca Slab"
+XP,2008-01-01,2009-12-31,2.0,59,Colorado Rockies Experiment and Seismic Transect
+XR,2008-01-01,2011-12-31,4.0,71,Seismic Investigation of Edge Driven Convection Associated with the Rio Grande Rift.
+Y3,2008-01-01,2008-12-31,1.0,12,"Wells, Nevada Aftershock Recording"
+Y4,2008-01-01,2009-12-31,2.0,114,Mt. Erebus Volcano Observatory
+Y8,2008-01-01,2008-12-31,1.0,122,New England Damage Experiment
+YB,2008-01-01,2008-12-31,1.0,12,Fuego 2008
+YD,2008-01-01,2008-12-31,1.0,106,Recording Mogul Events throughout the Reno Basin
+YE,2008-01-01,2009-12-31,2.0,30,"Title: NEESR-SG: High Fidelity site characterization by experimentation, field observation, and inversion-based modeling"
+YH,2008-01-01,2009-12-31,2.0,64,LaBarge Experiment
+YJ,2008-01-01,2008-12-31,1.0,51,Evaluation of ACROSS-type Source for San Andreas Fault
+YN,2008-01-01,2008-12-31,1.0,20,Reverberation method development
+YR,2008-01-01,2010-12-31,3.0,17,ALFA08
+YX,2008-01-01,2008-12-31,1.0,10,Seismology Rapid Response Test During the SoSAF Shakeout
+Z1,2008-01-01,2008-12-31,1.0,81,Imaging the Upper Crust at Newberry Volcano using Large offset Reflections
+Z2,2008-01-01,2008-12-31,1.0,854,High-Lava-Plains-Active-Vcomp
+Z3,2008-01-01,2008-12-31,1.0,14,Mt.Carmel 2008 AFtershock Network
+Z5,2008-01-01,2008-12-31,1.0,1048,High Lava Plains Active - Single Component Subset A
+ZK,2008-01-01,2008-12-31,1.0,97,UWTremTexBS - EarthScope Flex Array
+ZR,2008-01-01,2008-12-31,1.0,22,Bering Glacier Field Camp 2008
+ZV,2008-01-01,2010-12-31,3.0,36,Northeast Tibet Plateau Seismic Experiment
+ZX,2008-01-01,2010-12-31,3.0,25,Boulby Cliffs
+2F,2009-01-01,2009-12-31,1.0,202,Taiwan Supplement #2 to TAIGER project
+2H,2009-01-01,2013-12-31,5.0,23,AFAR0911
+7D,2009-01-01,2010-12-31,2.0,16,Yakima Landslide RAMP
+X1,2009-01-01,2010-12-31,2.0,16,Carbon Sequestration Technical Assessemnt-Pennsylvania
+X2,2009-01-01,2010-12-31,2.0,105,Seismic  Analysis of the HiKurangi Experimentm Wellington Geophysical Transect
+XB,2009-01-01,2013-12-31,5.0,93,Program to Investigate Convective Alboran Sea System Overturn
+XE,2009-01-01,2011-12-31,3.0,19,Sierra Negra Array Galapagos
+XF,2009-01-01,2011-12-31,3.0,30,"Collaborative Research: Relating glacier-generated seismicity to ice motion, basal processes and iceberg calving."
+XG,2009-01-01,2011-12-31,3.0,188,Cascadia Array of Arrays
+XJ,2009-01-01,2009-12-31,1.0,20,L' Aquila Aftershock Experiment
+XT,2009-01-01,2009-12-31,1.0,22,Fuego Volcano 2009
+XV,2009-01-01,2010-12-31,2.0,38,Bighorn Arch Seismic Experiment
+XW,2009-01-01,2011-12-31,3.0,110,Young Conjugate Margins Lab in the Gulf of Aden
+Y8,2009-01-01,2011-12-31,3.0,19,Detection and location of non-volcanic tremor in the New Madrid Seismic Zone
+YD,2009-01-01,2011-12-31,3.0,65,South Carpathian Project
+YG,2009-01-01,2009-12-31,1.0,10,Gauging Rutford Ice Stream Transients
+YL,2009-01-01,2011-12-31,3.0,89,Lau Basin OBS Experiment
+YN,2009-01-01,2009-12-31,1.0,64,ETMO: Endeavour Seismic Tomography Experiment
+YP,2009-01-01,2011-12-31,3.0,129,"Collaborative Research: Northeast China Extended Seismic Array: Deep subduction, mantle dynamics and lithospheric evolution beneath Northeast China"
+YS,2009-01-01,2013-12-31,5.0,41,The life cycle of Andean volcanoes:Combining space-based and field studies
+YY,2009-01-01,2011-12-31,3.0,115,KRAFLA-09
+YZ,2009-01-01,2014-12-31,6.0,36,Nicoya Seismogenic Zone
+Z1,2009-01-01,2010-12-31,2.0,17,Mantle flow and magma supply to the Eastern Lau Spreading Center
+Z2,2009-01-01,2012-12-31,4.0,14,NOISY
+Z3,2009-01-01,2009-12-31,1.0,47,"Active Seismic Study of Episodic Tremor and Slip, Detecting Structural changes During an ETS Event: Proof of Concept"
+Z6,2009-01-01,2010-12-31,2.0,11,Forsyth Deployment near the South Shatsky Fracture Zone
+Z8,2009-01-01,2011-12-31,3.0,39,Deep Geothermal HADES seismic array
+ZK,2009-01-01,2011-12-31,3.0,18,Afar Depression Dense Seismic Array
+ZU,2009-01-01,2010-12-31,2.0,29,Marine Observations of Anisotropy near Aotearoa
+1G,2010-01-01,2011-12-31,2.0,42,Seismic Imaging of the Ordos Plateau
+2C,2010-01-01,2011-12-31,2.0,49,Geophysical Study of Ice Stream Stick-slip dynamics
+2D,2010-01-01,2011-12-31,2.0,35,Albacore
+2E,2010-01-01,2011-12-31,2.0,28,"Seismic Coherence and Site Effect Studies at Precarious Rock Locations in Riverside, California"
+3A,2010-01-01,2012-12-31,3.0,22,Maule Aftershock Deployment (UK)
+3C,2010-01-01,2011-12-31,2.0,25,Collaborative Proposal: Glacier seismicity and its relationship to basal motion
+3D,2010-01-01,2013-12-31,4.0,15,Morocco-Muenster
+3E,2010-01-01,2011-12-31,2.0,18,Exploring Seismic Velocity of Sediments in the Mississippi Embayment
+4I,2010-01-01,2019-12-31,10.0,25,Brady Hot Spring EGS
+5A,2010-01-01,2012-12-31,3.0,68,"Basin & Range, Pleasant Valley Faulting, Crustal-Scale Geometry of Active Continental Normal Faults"
+5E,2010-01-01,2010-12-31,1.0,320,Earthquake Swarms and Aseismic Slip in the Salton Trough: High-Resolution Imaging of the Upper Frictional Stability Transition
+6I,2010-01-01,2021-12-31,12.0,18,Raft River EGS
+7A,2010-01-01,2011-12-31,2.0,10,Cascadia- Keck
+7F,2010-01-01,2012-12-31,3.0,10,Central Arkansas Induced Eathquakes 2010-2011
+8E,2010-01-01,2010-12-31,1.0,499,TANGSHAN
+9A,2010-01-01,2011-12-31,2.0,12,Loihi Seismicity
+9B,2010-01-01,2010-12-31,1.0,130,Kilauea Volcano Seismo-Acoustic Source and Propagation-2010
+X4,2010-01-01,2014-12-31,5.0,23,"Texas Gulf Coastal Plain, USA"
+XA,2010-01-01,2010-12-31,1.0,898,Sismic Imaging of the Moroccan Atlas
+XO,2010-01-01,2010-12-31,1.0,12,"Deep Fault Drilling Project, Alpine Fault, New Zealand: Whataroa-Wanganui Passive Seismology Experiment 2010"
+XP,2010-01-01,2013-12-31,4.0,42,Investigating the relationship between pluton growth and volcanism at two active intrusions in the central Andes
+XT,2010-01-01,2010-12-31,1.0,449,"Retrieval of reflections from seismic background-noise measurements for geophysical imaging of Fault Systems in Reno, NV"
+XY,2010-01-01,2010-12-31,1.0,67,RAMP response for 2010 Chile earthquake
+YF,2010-01-01,2011-12-31,2.0,24,Carboneras Fault Experiment
+YG,2010-01-01,2010-12-31,1.0,10,San Andreas Virtual Earthquake Experiment Los Angeles
+YJ,2010-01-01,2014-12-31,5.0,32,Infrasound From Earthquakes: Signal Characteristics and Depth Discrimination
+YM,2010-01-01,2012-12-31,3.0,44,"An Integrated Analysis of Low-Frequency Seismicity at Villarrica Volcano, Chile"
+YN,2010-01-01,2026-12-31,17.0,67,San Jacinto Fault Zone Experiment
+YV,2010-01-01,2010-12-31,1.0,27,Bering Glacier Surge Seismic Experiment
+YX,2010-01-01,2012-12-31,3.0,56,Flexarray 3D Passive Seismic Imaging of Core-Complex Extension in the Ruby Range Nevada
+Z7,2010-01-01,2015-12-31,6.0,219,Northern Volcanic Zone
+Z9,2010-01-01,2014-12-31,5.0,91,Southeastern Suture of the Appalachian Margin Experiment
+ZD,2010-01-01,2013-12-31,4.0,40,PerU Lithosphere and Slab Experiment
+ZF,2010-01-01,2010-12-31,1.0,424,GUMBO: Gulf of Mexico Basin Opening
+ZG,2010-01-01,2012-12-31,3.0,51,Central Andean Uplift and the Geodynamics of the High Topography
+ZH,2010-01-01,2010-12-31,1.0,172,Collaborative Research: Geometry and kinematics of basement-involved foreland arches:Insights into continental processes from Earthscope.
+ZI,2010-01-01,2010-12-31,1.0,2343,Collaborative Research: Geometry and kinematics of basement-involved foreland arches: Insights into continental processes from Earthscope
+ZN,2010-01-01,2011-12-31,2.0,43,Papua Peninsula-Woodlark Rift Imaging Experiment
+ZP,2010-01-01,2013-12-31,4.0,35,Africa Array- Uganda/Tanzania
+1C,2011-01-01,2014-12-31,4.0,23,"Seismic Characterization of Menengai Crater, Kenya"
+4H,2011-01-01,2012-12-31,2.0,15,Nabro Urgency Array
+5G,2011-01-01,2011-12-31,1.0,357,SinoProbe: Northeast China Transect
+6H,2011-01-01,2013-12-31,3.0,38,Mozambique Rift Tomography
+7D,2011-01-01,2017-12-31,7.0,259,Cascadia Initiative Community Experiment - OBS Component
+8E,2011-01-01,2013-12-31,3.0,11,Mammoth Mountain Broadband Experiment
+9B,2011-01-01,2011-12-31,1.0,340,TopoGreenland
+X2,2011-01-01,2011-12-31,1.0,904,Seismic Wide-Angle across the RIFT
+X8,2011-01-01,2011-12-31,1.0,100,"Coulman High VSP, Antarctica, 2010"
+XA,2011-01-01,2011-12-31,1.0,12,Using Fault-Zone Trapped Waves to Document Subsuface Rock Damage Caused by the M6.3 Earthquake in Ne
+XC,2011-01-01,2011-12-31,1.0,12,Pacaya Tremor
+XD,2011-01-01,2013-12-31,3.0,48,Passive seismic study of a magma-dominated rift: the Salton Trough
+XI,2011-01-01,2013-12-31,3.0,82,Superior Province Rifting Earthscope Experiment
+XJ,2011-01-01,2011-12-31,1.0,15,Gulf of Mexico Hydrates Research Consortium
+XK,2011-01-01,2011-12-31,1.0,29,"Passive seismic for geothermal exploration, Fairmont, Montana"
+XN,2011-01-01,2013-12-31,3.0,10,joint summer field camp BSU/CSM/Imperial College of London
+XO,2011-01-01,2015-12-31,5.0,143,Ozark Illinois Indiana Kentucky (OIINK) Flexible Array Experiment
+XQ,2011-01-01,2011-12-31,1.0,17,NEESR-CR: Topographic Effects in Strong Ground Motion - From Physical and Numerical Modeling to Design
+XT,2011-01-01,2013-12-31,3.0,87,"Deformation and Magmatic Modification of a Steep Continental Margin, Western ID-Eastern OR"
+XV,2011-01-01,2013-12-31,3.0,34,"INVESTIGATION OF SOURCES OF INTRAPLATE VOLCANISM USING PASSCAL BROADBAND INSTRUMENTS IN MADAGASCAR, THE COMORES, AND MOZAMBIQUE"
+XY,2011-01-01,2012-12-31,2.0,16,"Experiment to Determine Hypocenters and Focal Mechanisms of Earthquakes Occurring in Association with Imaged Faults Near Summeville, South Carolina"
+Y3,2011-01-01,2011-12-31,1.0,251,Cornell-USGS Virgina Aftershock iMaging exPeriment
+YB,2011-01-01,2012-12-31,2.0,12,Faroe Islands Passive Seismic Experiment
+YE,2011-01-01,2035-12-31,25.0,38,Testing TA & FA vaults and directly buried sensor (3T)
+YG,2011-01-01,2011-12-31,1.0,5016,Seismic Imaging of New Transitional Crust in the Salton Trough Oblique Rift
+Z1,2011-01-01,2011-12-31,1.0,16,Fracture Decoupling Experiment
+Z6,2011-01-01,2017-12-31,7.0,11,PIRE: Life on a tectonically active delta in Bangladesh
+ZA,2011-01-01,2013-12-31,3.0,49,NoMelt
+ZF,2011-01-01,2011-12-31,1.0,42,Alaska Langseth Experiment to Understand the megaThrust
+ZL,2011-01-01,2015-12-31,5.0,82,Northern Embayment Lithospheric Experiment
+ZQ,2011-01-01,2012-12-31,2.0,18,Oklahoma RAMP
+ZX,2011-01-01,2014-12-31,4.0,11,Gisborne-Mahia Seismic Tremor Array
+ZZ,2011-01-01,2011-12-31,1.0,45,"Multi-array observations of tectonic tremor in the Anza gap, San Jacinto fault, CA - Phase 1"
+24,2012-01-01,2023-12-31,12.0,19,Patua geothermal network
+2D,2012-01-01,2012-12-31,1.0,95,Humming Roadrunner Temporary Seismoacoustic Network
+7A,2012-01-01,2012-12-31,1.0,909,Wide-Angle seismic reflection Experiment across the Central Iberian Zone; Iberia Peninsula
+8H,2012-01-01,2012-12-31,1.0,74,New Mexico Coupling of Seismic
+9A,2012-01-01,2012-12-31,1.0,2554,"Deformation and magmatic modification of a steep continental margin, western Idaho - eastern Oregon"
+9B,2012-01-01,2013-12-31,2.0,1401,Tomographic Imaging of Silali and Paka Volcanoes
+9G,2012-01-01,2015-12-31,4.0,16,Newberry Volcano EGS Demonstration MSA
+X6,2012-01-01,2012-12-31,1.0,83,Evolution and hydration of the Juan de Fuca crust and uppermost mantle
+X8,2012-01-01,2017-12-31,6.0,38,Deep Structure of Three Continental Sutures in Eastern North America
+X9,2012-01-01,2013-12-31,2.0,54,Plate Boundary Evolution and Physics at an Oceanic Transform Fault System
+XA,2012-01-01,2012-12-31,1.0,110,AIDA_Maine
+XE,2012-01-01,2014-12-31,3.0,12,"Seismic Activity of Low Angle Normal Faults in Death Valley, Caifornia"
+XF,2012-01-01,2013-12-31,2.0,90,Mantle serpentinization and water cycling through the Mariana Trench and Forearc
+XH,2012-01-01,2013-12-31,2.0,16,Small aperture array for observing a slow slip event on Kilauea volcano.
+XJ,2012-01-01,2012-12-31,1.0,10,Fuego Volcano VLP and Tilt Experiment
+XK,2012-01-01,2014-12-31,3.0,53,Seismic Arrays for African Rift Initation
+XL,2012-01-01,2016-12-31,5.0,114,Central Mongolia Seismic Experiment
+XM,2012-01-01,2014-12-31,3.0,21,ARGOS - Alutu and Regional Geophysical Observation Study SEIS-UK
+XQ,2012-01-01,2014-12-31,3.0,12,Pre-Hydrofracking Regional Assessment of Central Carolina Seismicity
+XR,2012-01-01,2014-12-31,3.0,25,Deployment of a simultaneous broadband gradiometers to quantify the effects of aperture and near-surface geology on gradient-der
+YD,2012-01-01,2017-12-31,6.0,40,Whillians Ice Stream Subglacial Access Research Drilling
+YG,2012-01-01,2012-12-31,1.0,40,Collaborative Research: Imaging the Cascadia subduction zone - a ship-to-shore opportunity
+YH,2012-01-01,2013-12-31,2.0,81,Dense Array for North Anatolia
+YL,2012-01-01,2012-12-31,1.0,10,Santiaguito 2012
+YO,2012-01-01,2012-12-31,1.0,102,Fracture Decoupling Experiment 2
+YQ,2012-01-01,2012-12-31,1.0,174,"Soda Lake DOE, Development of a low cost method to estimate the seismic signature of a geothermal field from ambient seismic noise analysis"
+ZF,2012-01-01,2014-12-31,3.0,28,Collaborative Research: East Antarctic Outlet Glacier Dynamics
+ZJ,2012-01-01,2015-12-31,4.0,15,Transantarctic Mountains Northern Network
+ZR,2012-01-01,2012-12-31,1.0,100,El Tatio Geyser Study
+ZS,2012-01-01,2013-12-31,2.0,16,Seismicity of East Coast Submarine Landslides
+ZT,2012-01-01,2014-12-31,3.0,21,"WIsconsin, new Zealand, And Rensselaer Deployment"
+ZV,2012-01-01,2013-12-31,2.0,39,Malargue seismic array
+ZZ,2012-01-01,2012-12-31,1.0,15,Collaborative Research: Imaging the Cascadia subduction zone - a ship-to-shore opportunity
+1H,2013-01-01,2018-12-31,6.0,117,Magnetotelluric Observations of Cascadia using a Huge Array
+1U,2013-01-01,2015-12-31,3.0,12,Mt. Paektu Seismic Network
+2C,2013-01-01,2013-12-31,1.0,19,New England Damage Experiment Phase II
+3C,2013-01-01,2013-12-31,1.0,486,East Bay Seismic Experiment
+5P,2013-01-01,2033-12-31,21.0,56,Structural health monitoring of rock arches and towers
+6E,2013-01-01,2016-12-31,4.0,75,Wabash Valley Seismic Zone
+7A,2013-01-01,2016-12-31,4.0,29,Mid-Atlantic Geophysical Integrative Collaboration
+9L,2013-01-01,2016-12-31,4.0,10,Stanford Geophysics Donor Data Collection
+X3,2013-01-01,2014-12-31,2.0,56,MARINER: Seismic Investigation of the Rainbow Hydrothermal Field
+XJ,2013-01-01,2015-12-31,3.0,39,Magadi-Natron Magmatic Rifting Studies
+XY,2013-01-01,2016-12-31,4.0,22,PASEIS
+XZ,2013-01-01,2013-12-31,1.0,46,Gulf of Mexico USGS Hydrates
+Y6,2013-01-01,2015-12-31,3.0,10,QM-III-UK
+Y8,2013-01-01,2014-12-31,2.0,30,"Passive-Source Guided Wave Study along the San Andreas Fault in San Gorgonio Pass, California"
+YB,2013-01-01,2015-12-31,3.0,72,Continental Dynamics/Central Anatolian Tectonics: Surface to mantle dynamics during collision to escape
+YC,2013-01-01,2017-12-31,5.0,11,Texas Brine Corporation Louisiana Seismic Network
+YG,2013-01-01,2014-12-31,2.0,14,Deployment for the Southern Cook Strait Earthquake Sequence
+YL,2013-01-01,2014-12-31,2.0,12,"Seismo-acoustic experiment and initial monitoring effort at Pagan Volcano, Commonwealth of the Northern Mariana Islands"
+YQ,2013-01-01,2016-12-31,4.0,89,Study of Extension and maGmatism in Malawi aNd Tanzania
+YY,2013-01-01,2016-12-31,4.0,33,Exploring extensional tectonics beyond the Ethiopian Rift
+Z5,2013-01-01,2015-12-31,3.0,64,"Seismicity, Structure and Dynamics of the Gorda Deformation Zone"
+Z8,2013-01-01,2015-12-31,3.0,35,Dense Virtual Seismic Array at Pacaya
+ZC,2013-01-01,2032-12-31,20.0,64,Greater Antilles Seismic Program
+ZG,2013-01-01,2013-12-31,1.0,144,Bringing New Tools and Techniques to Bear on Earthquake Hazard Analysis and Mitigation
+ZQ,2013-01-01,2014-12-31,2.0,97,Imaging the Matador arch using receiver funcitons from Texan dataloggers and short period geophones
+ZR,2013-01-01,2014-12-31,2.0,33,SCANLIPS3D
+ZU,2013-01-01,2014-12-31,2.0,27,Trans-Haiti
+ZW,2013-01-01,2024-12-31,12.0,84,North Texas Earthquake Study: Azle and Irving/Dallas
+ZZ,2013-01-01,2014-12-31,2.0,18,Virginia seismic experiment
+1B,2014-01-01,2014-12-31,1.0,2268,Sweetwater Array
+1D,2014-01-01,2014-12-31,1.0,898,MSH Node Array
+5E,2014-01-01,2015-12-31,2.0,10,Cascadia Initiative
+5G,2014-01-01,2015-12-31,2.0,3873,SUGAR
+6K,2014-01-01,2015-12-31,2.0,40,Otago temporary broadband network
+7C,2014-01-01,2014-12-31,1.0,843,2014 NAPA Earthquake Response
+8A,2014-01-01,2014-12-31,1.0,896,Seismic Transect Across the Okavango Rift Zone
+8F,2014-01-01,2015-12-31,2.0,17,"Hikurangi Ocean Bottom Investigation of Tremor and Slow Slip, LBPR and TXBP data"
+9C,2014-01-01,2016-12-31,3.0,45,Aleutian Array of Arrays
+9D,2014-01-01,2014-12-31,1.0,3539,"Integrated Geosciences in the Merida Andes, Venezuela"
+X6,2014-01-01,2016-12-31,3.0,25,"Homestake Gold Mine Three-dimensional, Broadband Array"
+XB,2014-01-01,2014-12-31,1.0,458,Sweetwater Array
+XD,2014-01-01,2016-12-31,3.0,5101,Collaborative Research: Illuminating the architecture of the greater Mount St. Helens magmatic systems from slab to surface
+XH,2014-01-01,2017-12-31,4.0,34,Collaborative Research: Collaborative Research: Dynamic Response of the Ross Ice Shelf to Ocean Waves and Structure and Dynamics of the Ross Sea from a Passive Seismic Deployment on the Ross Ice Shelf
+XI,2014-01-01,2014-12-31,1.0,40,Long Beach Broadband or LA Syncline Seismic Interferometry Experiment
+XN,2014-01-01,2014-12-31,1.0,15,Dynamic Response of the Ross Ice Shelf to to Wave Induced Vibrations
+XV,2014-01-01,2019-12-31,6.0,16,Fault Locations and Alaska Tectonics from Seismicity
+XZ,2014-01-01,2014-12-31,1.0,93,Idaho Teton Dam
+YH,2014-01-01,2015-12-31,2.0,15,Hikurangi Ocean Bottom Investigation of Tremor and Slow Slip
+YO,2014-01-01,2015-12-31,2.0,128,Eastern North American Margin Community Seismic Experiment
+YS,2014-01-01,2018-12-31,5.0,33,Transitions in the Banda Arc-Australia continental collision
+ZA,2014-01-01,2022-12-31,9.0,30,"Wellington, Kansas CO2 Sequestration Monitoring"
+ZD,2014-01-01,2019-12-31,6.0,12,"4D Integrated Study Using Geology, Geophysics, Reservoir Modeling & Rock Mechanics to Develop Assessment Models for Potential In"
+ZG,2014-01-01,2014-12-31,1.0,1108,Sage Brush Flats Nodal Experiment
+ZI,2014-01-01,2014-12-31,1.0,80,"A community seismic experiment targeting the pre-syn, post-rift evolution of the Mid-Atlantic US International Federation of Digital Seismograph Networks"
+ZK,2014-01-01,2014-12-31,1.0,18,Vatnajokull Icequake and Tremor Array: Lite
+ZN,2014-01-01,2015-12-31,2.0,27,"Site response in the Washington, DC, area"
+ZV,2014-01-01,2015-12-31,2.0,13,Southern Lake Tanganyika experiment
+1E,2015-01-01,2016-12-31,2.0,149,Crustal Magma Plumbing of the Santorini Volcanic System
+3B,2015-01-01,2016-12-31,2.0,1021,"Integrated Geosciences in the Merida Andes, Venezuela"
+4F,2015-01-01,2025-12-31,11.0,28,"North Texas Earthquake Study: Venus (Johnson County), TX"
+5C,2015-01-01,2016-12-31,2.0,22,"September 16, 2015 Illapel Earthquake: Seismicity and Segmentation of the Nazca-South America Subudction Zone in Chile"
+5F,2015-01-01,2016-12-31,2.0,13,"Magnetotelluric and seismic investigation of arc melt generation, delivery, and storage beneath Okmok Volcano"
+7C,2015-01-01,2019-12-31,5.0,40,The Mackenzie Mountains Transect: Active Deformation from Margin to Craton
+8A,2015-01-01,2018-12-31,4.0,19,AfricaArray - Namibia
+8J,2015-01-01,2015-12-31,1.0,25,INSPIRE
+9D,2015-01-01,2015-12-31,1.0,801,Seismic Array of the Sevilleta
+XC,2015-01-01,2015-12-31,1.0,19,"Florida Magnetotelluric Time Series (USGS-GEOMAG, Florida 2015 Long Period)"
+XK,2015-01-01,2015-12-31,1.0,801,Seismic Array of the Sevilleta
+XP,2015-01-01,2019-12-31,5.0,15,Seismic Experiment for Imaging Structure beneath Connecticut
+XQ,2015-01-01,2016-12-31,2.0,47,"Rapid response to the Mw 7.9 earthquake of April 25, 2015 in Nepal"
+XS,2015-01-01,2015-12-31,1.0,77,Trinity River Lowden Ranch Array 2015
+XZ,2015-01-01,2015-12-31,1.0,15,Measuring ambient noise of ocean breakers
+Y2,2015-01-01,2016-12-31,2.0,12,Islands of the Four Mountains 2015-16
+YL,2015-01-01,2015-12-31,1.0,298,Parnaiba Basin WARR profile
+YZ,2015-01-01,2016-12-31,2.0,12,Establishing Background Microseismicity at Proposed Geothermal Site at Cornell Univerity
+ZE,2015-01-01,2017-12-31,3.0,28,Southern Alaska Lithosphere and Mantle Observation Network
+ZQ,2015-01-01,2016-12-31,2.0,29,Taku Glacier
+ZR,2015-01-01,2018-12-31,4.0,40,Laguna del Maule seismic imaging
+ZS,2015-01-01,2016-12-31,2.0,1100,Quantifying Egs Reservoir Complexity With An Integrated Geophysical Approach And Improved Resolution Ambient Seismic Noise Inter
+ZT,2015-01-01,2020-12-31,6.0,24,"REU: Imaging the Bushveld Complex, South Africa"
+1D,2016-01-01,2018-12-31,3.0,14,UKANET: UK Antarctic Network
+1R,2016-01-01,2023-12-31,8.0,36,Seismo Acoustic Study of Rocket Launches from Kennedy Space Center
+2A,2016-01-01,2016-12-31,1.0,1829,LArge-n Seismic Survey in Oklahoma
+2B,2016-01-01,2017-12-31,2.0,17,Pryor: Cornell University
+2H,2016-01-01,2024-12-31,9.0,11,Interim Broadband Monitoring of the Mount Erebus Volcano
+2J,2016-01-01,2026-12-31,11.0,23,Clemson University Subsurface Deformation Monitoring Network
+3C,2016-01-01,2016-12-31,1.0,200,Indio Ranch
+3F,2016-01-01,2019-12-31,4.0,15,"SIR-MIUR Project INSIEME - broadband seismic network in Val d'Agri, southern Italy"
+3J,2016-01-01,2018-12-31,3.0,23,Broadband Array in Longmenshan Seismic Gap
+3W,2016-01-01,2020-12-31,5.0,10,Fallon FORGE seismic network
+5B,2016-01-01,2017-12-31,2.0,69,Tony Creek Dual Microseismic Experiment
+8G,2016-01-01,2017-12-31,2.0,20,2016 Pedernales Earthquake Aftershock Deployment Ecuador
+8J,2016-01-01,2017-12-31,2.0,93,FORGE nodal array 1
+9B,2016-01-01,2019-12-31,4.0,40,BEAMISH
+9D,2016-01-01,2016-12-31,1.0,96,Dense seismic three-component nodal array at the Ramona Reservation
+9M,2016-01-01,2016-12-31,1.0,189,Node deployment along the intersection of the Denali Fault and Richardson Highway
+X4,2016-01-01,2021-12-31,6.0,28,Monitoring Active Faults for Tectonic Mapping Efforts in Washington State
+X7,2016-01-01,2018-12-31,3.0,33,Wallowa Uplift & Origin of the columbia River Basalts
+XK,2016-01-01,2016-12-31,1.0,12,Delineating preferential flow paths from recharge for water planning and management
+XR,2016-01-01,2017-12-31,2.0,60,Seismicity near the Nemaha fault in northern Oklahoma
+XS,2016-01-01,2017-12-31,2.0,36,Passive Imaging of the Lithosphere-Asthenosphere Boundary
+XU,2016-01-01,2029-12-31,14.0,18,USGS NEHRP Proposal 2016-0180 - Greeley
+XW,2016-01-01,2016-12-31,1.0,51,Pisagua/Iquique Crustal Tomography to Understand the Region of the Earthquake Source - OBSIP OBS Component
+Y4,2016-01-01,2016-12-31,1.0,333,Napa Seismic Investigation 2016
+Y6,2016-01-01,2017-12-31,2.0,46,Rift valley volcanism past present and future
+Y7,2016-01-01,2019-12-31,4.0,20,Acquisition of aftershock sequence of the 2016 M5.6 Sooner Lake Earthquake
+Y8,2016-01-01,2021-12-31,6.0,16,"Monitoring Entiat Earthquakes in Chelan County, Washington"
+Y9,2016-01-01,2019-12-31,4.0,10,Rapid response for fairview aftershock in Oklahoma
+YA,2016-01-01,2016-12-31,1.0,618,Yucca Valley Seismic Experiment
+YB,2016-01-01,2016-12-31,1.0,35,Evolution of Slow-Spreading Oceanic Crust: South Atlantic
+YG,2016-01-01,2018-12-31,3.0,36,Fate and consequences of Yakutat terrane subduction beneath eastern Alaska and the Wrangell Volcanic Field
+YH,2016-01-01,2016-12-31,1.0,20,Play Fairway Analysis - Passive monitoring of St. Helens Shear zone for tomography and precision microseismicity
+YL,2016-01-01,2018-12-31,3.0,13,"Response of Continental Hydrothermal Systems to Tectonic, Magmatic, and Climatic Forcing"
+YR,2016-01-01,2017-12-31,2.0,27,Armatrice Sequence International
+YU,2016-01-01,2018-12-31,3.0,65,Caribbean-Merida Andes Experiment
+YW,2016-01-01,2016-12-31,1.0,383,IRIS Community Wavefield Experiment in Oklahoma
+Z1,2016-01-01,2017-12-31,2.0,24,Seismic Triggering Response for Earthquakes around Wellington NZ
+ZB,2016-01-01,2016-12-31,1.0,178,Reno Sedimentary and Volcanic Basins Deep ReMi
+ZI,2016-01-01,2017-12-31,2.0,89,"Investigation of crustal structure of the Matador Arch, testing of short period vs long period receiver function"
+ZK,2016-01-01,2016-12-31,1.0,60,Seismic signature of debris flume experiments
+ZL,2016-01-01,2016-12-31,1.0,10,Terrapin
+ZN,2016-01-01,2016-12-31,1.0,340,East Bay Seismic Investigation 2016
+ZP,2016-01-01,2019-12-31,4.0,16,Seismic Investigation of South Central Oklahoma
+ZV,2016-01-01,2016-12-31,1.0,10,Seismic Noise Survey of Western Kazakhstan
+2A,2017-01-01,2019-12-31,3.0,14,Sorsdal_Glacier_17-18
+2F,2017-01-01,2020-12-31,4.0,24,Crust and lithosphere Investigation of the Easternmost expression of the Laramide Orogeny - Pilot Experiment
+2P,2017-01-01,2019-12-31,3.0,22,Broadband East Coast Network
+3A,2017-01-01,2017-12-31,1.0,50,"Node deployment in Oaxaca, Mexico following the M8.1 Tehuantepec Earthquake"
+3C,2017-01-01,2018-12-31,2.0,97,NZ3D FWI
+4Q,2017-01-01,2018-12-31,2.0,10,"Dover, Delaware Aftershock Nodal Deployment"
+5H,2017-01-01,2019-12-31,3.0,26,Central Virginia and South Carolina seismic monitoring experiment
+6A,2017-01-01,2018-12-31,2.0,14,Teno Valley Seismic Network
+6B,2017-01-01,2019-12-31,3.0,689,Controls on along-strike variations in locked and creeping megathrust behavior at the Hikurangi convergent margin
+8F,2017-01-01,2017-12-31,1.0,530,Test study to detect moisture in a Playa lake bed
+9A,2017-01-01,2018-12-31,2.0,108,Dense seismic three-component nodal array at the Bud Wellman Ranch
+X1,2017-01-01,2018-12-31,2.0,290,Upper Geyser Basin Imaging Experiment FALL 2017
+X9,2017-01-01,2018-12-31,2.0,18,"Moment tensor inversion, perforation"
+XA,2017-01-01,2023-12-31,7.0,120,The Caucasus Seismic Network: The Uplift and Structure of the Greater and Lesser Caucasus
+XF,2017-01-01,2017-12-31,1.0,14,INFRA-ETNA
+XG,2017-01-01,2017-12-31,1.0,62,San Bernardino Basin (USGS) - Jan 2017 nodal deployment
+XL,2017-01-01,2030-12-31,14.0,20,McGill Dawson-Septimus Induced Seismicity Study
+XM,2017-01-01,2018-12-31,2.0,20,Geothermal Seismic Exploration and Monitoring Via Ambient Seismic Noise Interferometry
+XY,2017-01-01,2017-12-31,1.0,874,The Central Iberian Mountain Range a Key Asset to the Deformation Mechanisms of Iberia
+YH,2017-01-01,2019-12-31,3.0,24,Seismometer to Investigate Ice and Ocean Structure (SIIOS) Field Experiment
+YI,2017-01-01,2017-12-31,1.0,136,Mount St. Helens 3C Node Array
+YV,2017-01-01,2017-12-31,1.0,91,Seismic experiments at the USGS Debris Flow Flume
+ZB,2017-01-01,2018-12-31,2.0,10,Rapid Aftershock Deployment for the September 2017 M=8.1 and M.7.1 Earthquakes in Mexico (RADSEM)
+ZO,2017-01-01,2017-12-31,1.0,174,Central Oregon Dense 3C Node Transect
+ZV,2017-01-01,2017-12-31,1.0,10,Seismic and Geomorphic Characterization of Mass Wasting Events Associated with the 2017 Brian Head Fire
+ZZ,2017-01-01,2018-12-31,2.0,20,Texas-Geothermal Seismic Exploration and Monitoring Via Ambient Seismic Noise Interferometry
+1B,2018-01-01,2018-12-31,1.0,80,Cholame Nodal Array 2018
+1C,2018-01-01,2018-12-31,1.0,550,Galilee Seismic Experiment: crustal and sedimentary structure and seismic hazard
+1E,2018-01-01,2030-12-31,13.0,25,GSC-BCOGC Induced Seismicity Study
+1J,2018-01-01,2019-12-31,2.0,12,Totten Glacier Active and Passive Source Experiment
+1P,2018-01-01,2021-12-31,4.0,31,Solid Earth response of the Patagonia Andes to post-Little Ice Age glacial retreat
+2B,2018-01-01,2018-12-31,1.0,258,Fort Boise passive seismic water-recharge monitoring experiment
+2E,2018-01-01,2019-12-31,2.0,244,West Antarctic Ice Sheet (WAIS) Divide Source Testing
+2T,2018-01-01,2099-12-31,82.0,32,Texas Temporary Arrays
+3D,2018-01-01,2019-12-31,2.0,134,Raspberry Pi Enhanced Reftek (RaPiER) Ambient Seismic Noise Interferometry 2
+3E,2018-01-01,2018-12-31,1.0,10,Experiment in Fuego
+4E,2018-01-01,2018-12-31,1.0,92,Raton 3C Nodes 2018
+4M,2018-01-01,2019-12-31,2.0,115,Los Angeles Basin Seismic Experiment
+4T,2018-01-01,2099-12-31,82.0,15,Texas Seismological Network
+5A,2018-01-01,2018-12-31,1.0,154,Rattlesnake Ridge 2018 v2
+5B,2018-01-01,2019-12-31,2.0,157,Rutford Ice Stream Cooperative Research Program with British Antarctic Survey
+6E,2018-01-01,2018-12-31,1.0,48,Surface-wave characterization of the SHOAL nuclear blast cavity and rubble chimney
+6L,2018-01-01,2018-12-31,1.0,983,PACIFIC ambient noise dense seismic survey at Marathon deposits
+6Q,2018-01-01,2018-12-31,1.0,12,South Island Seismic Experiment
+7O,2018-01-01,2025-12-31,8.0,25,New England Seismic Transect
+7P,2018-01-01,2020-12-31,3.0,59,Investigating West Texas Seismicity and Structure with Dense Geophone Arrays
+8C,2018-01-01,2018-12-31,1.0,20,Integration of Noble Gas and Seismic Measurements for Small Yield Event Discrimination and Yield Estimation
+8G,2018-01-01,2019-12-31,2.0,12,Investigating Geophysical Unrest at Sierra Negra
+9C,2018-01-01,2018-12-31,1.0,21,Seismometer to Investigate Ice and Ocean Structure (SIIOS) Field Experiment: Greenland
+9H,2018-01-01,2018-12-31,1.0,76,Salt Lake Linear Nodal Array 2018
+9K,2018-01-01,2018-12-31,1.0,392,2018 FaultScan San Jacinto Fault dense array experiment
+X3,2018-01-01,2018-12-31,1.0,14,Seismic Characterization and Tracking of Flash Floods in a Post-Fire Arid Canyon System
+XE,2018-01-01,2019-12-31,2.0,30,Pacific Array - Young ORCA
+XG,2018-01-01,2018-12-31,1.0,38,Rattlesnake Ridge 2018
+XI,2018-01-01,2023-12-31,6.0,20,Instrumentation for Multidisciplinary Monitoring of an Alaskan Peatland
+XO,2018-01-01,2019-12-31,2.0,105,AACSE: Alaska Amphibious Community seismic Experiment
+XR,2018-01-01,2022-12-31,5.0,62,Tripartite-BIMA (Bangladesh-India-Myanmar Array)
+XS,2018-01-01,2021-12-31,4.0,183,Geophysical characterization of karst aquifers using dynamic recharge events
+Y1,2018-01-01,2021-12-31,4.0,20,Crust and mantle structure and the expression of extension in the Turkana Depression of Kenya and Ethiopia
+Y6,2018-01-01,2018-12-31,1.0,40,Yellowstone Lake Microseism 2018
+YB,2018-01-01,2021-12-31,4.0,19,"Deep Fault Structure Beneath the Mojave from a High Density, Passive Seismic Profile"
+YC,2018-01-01,2020-12-31,3.0,49,Northern Borneo Orogeny Seismic Survey
+YI,2018-01-01,2018-12-31,1.0,16,"Seismo-acoustic Network at Stromboli Volcano, Italy"
+YR,2018-01-01,2018-12-31,1.0,4019,Shale Hills Critical Zone Observatory 3D Seismic Experiment
+Z1,2018-01-01,2018-12-31,1.0,80,Hawaii Nodal RAPID 2018
+Z6,2018-01-01,2018-12-31,1.0,10,"OBS survey of Kilauea's submarine south flank following the May 4, 2018 M6.9 earthquake and Lower East Rift Zone eruption"
+Z9,2018-01-01,2020-12-31,3.0,33,Soil Soundscapes from Seismic Arrays
+ZI,2018-01-01,2019-12-31,2.0,13,Investigating Thickness of Peridotites in New Caledonia (formerly CaNappe)
+ZJ,2018-01-01,2018-12-31,1.0,22,Mongolia Fault Zone Studies
+ZU,2018-01-01,2019-12-31,2.0,83,"Seismic imaging of volcano construction, underplating and flexure along the Hawaiian-Emperor Seamount Chain"
+1A,2019-01-01,2022-12-31,4.0,28,Seismic monitoring of post-fire debris flows in northern Arizona
+1B,2019-01-01,2019-12-31,1.0,109,Using passive seismics to determin a glacier sliding law
+2B,2019-01-01,2022-12-31,4.0,16,Eruption or Catastrophe: Learning to Implement Preparedness for future Supervolcano Eruptions
+2O,2019-01-01,2026-12-31,8.0,11,Beetaloo Seismic Monitoring Project
+2V,2019-01-01,2020-12-31,2.0,20,"Along-Dip Segmentation of the Slip Behavior and Rheology of the Copiapó Ridge, Chile"
+3J,2019-01-01,2019-12-31,1.0,579,RAMP deployment of 3C nodal for July Searles Valley 2019 Earthquake
+5A,2019-01-01,2019-12-31,1.0,50,Shale Hills Critical Zone Observatory Mini-Array 2 Experiment
+5K,2019-01-01,2020-12-31,2.0,12,Kamb Ice Stream Outlet Channel
+5O,2019-01-01,2019-12-31,1.0,12,Seismo-Acoustic Array Experiment at Mt. Etna - 2019
+6E,2019-01-01,2019-12-31,1.0,100,Dense nodal deployment at some test sites for the upcoming FaultScan project
+6L,2019-01-01,2020-12-31,2.0,16,"BEAMISH 2019-20, Rutford Ice Stream, West Antarctica`"
+6R,2019-01-01,2021-12-31,3.0,23,Turkana Rift Arrays to Investigate Lithospheric Strains - UK component
+7B,2019-01-01,2021-12-31,3.0,30,PacificORCA
+7F,2019-01-01,2020-02-17,1.1,41,Oman Borehole Project Land Stations
+7G,2019-01-01,2020-12-31,2.0,17,Autocorrelation of ambient noise and P-wave coda for crustal structure
+7T,2019-01-01,2020-12-31,2.0,195,LHS
+7U,2019-01-01,2021-12-31,3.0,14,Thwaites Margins Seismic Broadband
+8A,2019-01-01,2022-12-31,4.0,94,Gofar_Transfrom_Fault
+8J,2019-01-01,2019-12-31,1.0,398,Nodal Deployment for Alaska Amphibious Community Seismic Experiment
+8L,2019-01-01,2019-12-31,1.0,62,Mt. Meager Geothermal Nodal Array
+8P,2019-01-01,2022-12-31,4.0,119,NASA Magnetotelluric Transportable Array
+9L,2019-01-01,2019-12-30,1.0,99,4-D investigation of the hydrological properties of playas of the Southern High Pains
+9N,2019-01-01,2019-12-31,1.0,51,Steamboat Geyser Nodal Experiment 2019
+X1,2019-01-01,2019-12-31,1.0,58,SAGE investigations of the Valles Caldera
+X5,2019-01-01,2019-12-31,1.0,200,Bedload Monitoring of Ephemeral Streams
+X9,2019-01-01,2022-12-31,4.0,16,Bedload Monitoring of Ephemeral Streams (seed)
+XZ,2019-01-01,2019-12-31,1.0,150,Shale Hills Critical Zone Observatory Mini-Array Experiment
+Y6,2019-01-01,2019-12-31,1.0,60,"Community, Arts, and Environmental Setting of Fly Geyser, Nevada"
+YU,2019-01-01,2026-12-31,8.0,16,Cornell University Earth Source Heat seismic network
+YV,2019-01-01,2020-12-31,2.0,13,Hydraulic Fracturing Test Site-Enhance Oil Recovery
+Z6,2019-01-01,2019-12-31,1.0,100,Mapping the Seattle Basin Edge
+Z7,2019-01-01,2022-12-31,4.0,17,Induced Seismicity in Louisiana
+ZE,2019-01-01,2019-12-31,1.0,397,Node deployment along the intersection of the Denali Fault and Parks Highway
+ZX,2019-01-01,2020-12-31,2.0,14,Bransfield Strait
+ZZ,2019-01-01,2022-12-31,4.0,20,Farnsworth Unit Surface Seismic Array
+7S,2019-02-28,2021-12-31,2.8,26,Dense Westland Arrays Researching Fault Segmentation: What controls earthquake segmentation along New Zealand's Alpine Fault?
+7Q,2019-07-05,2020-12-31,1.5,27,RAPID: Capturing aftershock sequence of 2019 Mw 6.4 Ridgecrest and 7.1 Ridgecrest earthquakes
+1K,2020-01-01,2021-12-31,2.0,31,TEMPEST seismic network
+2A,2020-01-01,2020-12-31,1.0,172,"Response to the Mar 18, 2020 M5.7 Magna, UT Earthquake"
+3Y,2020-01-01,2022-12-31,3.0,12,"Along-Dip Influence of the Challenger Fault Zone on Slip Behavior and Rheology, Chile"
+8F,2020-01-01,2030-12-31,11.0,55,Reykjanes Seismic Network
+9L,2020-01-01,2020-12-31,1.0,15,Hall Ranch Nodal Seismic Array
+X1,2020-01-01,2020-12-31,1.0,110,MUSE - Myanmar Universities Nodal Seismic Experiments
+XE,2020-01-01,2020-12-31,1.0,298,High Resolution Imaging of the Pedernales Earthquake Rupture Zone - Nodes
+XH,2020-01-01,2020-12-31,1.0,31,White Sand Test Facility ANSWT Noise Test
+XO,2020-01-01,2020-12-31,1.0,26,Determination of the deep shear wave velocity structure of northwestern Washoe Valley
+XP,2020-01-01,2021-12-31,2.0,22,"Aftershock deployment for Stanley, ID earthquake 2020"
+YG,2020-01-01,2023-12-31,4.0,30,"Passive Seismic Observations of a glacier surge: Turner Glacier, Alaska, USA"
+YI,2020-01-01,2022-12-31,3.0,148,Queen Charlotte Fault Offshore Seismic Experiment
+ZE,2020-01-01,2022-12-31,3.0,19,Monitoring Seismicity in Louisiana
+ZU,2020-01-01,2024-12-31,5.0,536,USMTArray South Magnetotelluric Time Series
+ZV,2020-01-01,2020-12-31,1.0,198,"Horizon City, Texas Seismic Project"
+2L,2020-03-05,2022-05-15,2.2,11,Wellington Wellbore Velocity change experiment
+4L,2020-06-01,2022-12-31,2.6,653,Bedload Monitoring of Ephemeral Streams 2022 Nodal Portion
+1M,2021-01-01,2022-12-31,2.0,20,Walker Ranch Nodal Seismic Array
+1Z,2021-01-01,2022-12-31,2.0,93,CL2022
+3B,2021-01-01,2022-12-31,2.0,17,Southern Menthodist University
+3H,2021-01-01,2021-12-31,1.0,30,Shasta21
+3U,2021-01-01,2022-12-31,2.0,20,Domo de San Pedro BB
+4B,2021-01-01,2021-12-31,1.0,51,El Paso Iglesias
+4R,2021-01-01,2021-12-31,1.0,36,"Tower Lake area, in western Canada."
+7G,2021-01-01,2024-12-31,4.0,12,Collaborative Research: Constraining transient magma intrusion processes in the Nyiragongo-Kivu continental rift zone
+8E,2021-01-01,2021-12-31,1.0,217,PACIFIC multi array for ambient noise seismic survey at Kallak Iron ore deposit (KALLAK)
+8Q,2021-01-01,2023-12-31,3.0,24,Mapping and Understanding Seismic Anisotropy in the Northeast Pacific Ocean
+XK,2021-01-01,2026-12-31,6.0,10,Geisel Library
+YH,2021-01-01,2023-12-31,3.0,28,Defining the Source of the 1886 Earthquake
+YW,2021-01-01,2025-12-31,5.0,11,Muswellbrook
+Z2,2021-01-01,2022-12-31,2.0,17,Haiti Response 2021
+Z4,2021-01-01,2021-12-31,1.0,864,Complementing the 2020 Langseth offshore Cascadia survey with a large-N onshore nodal deployment
+ZP,2021-01-01,2023-12-31,3.0,62,Physically Understanding Localized Slip Episodisity
+ZX,2021-01-01,2023-12-31,3.0,58,Southern Alps Long Skinny Array; Along-fault array for virtual earthquake analysis of the Alpine Fault
+YL,2021-01-27,2022-10-31,1.8,19,MangyStaU ARray (MSUAR) Feasibility Study
+XF,2021-03-02,2022-12-31,1.8,65,High Resolution Imaging of the Pedernales Earthquake Rupture Zone-Broadbands
+1L,2022-01-01,2042-12-31,21.0,13,Rio Tinto
+1X,2022-01-01,2023-12-31,2.0,856,"TANGO, Collaborative Research: TransANdean Great Orogeny, Nodes/Argentina deployment."
+2S,2022-01-01,2022-12-31,1.0,428,FLUID - Role of FLuids in Underground Salt Cavern and Wastewater Injection Site Deformation
+3C,2022-01-01,2025-12-31,4.0,83,"Modeling, Uplift, Seismology, and Igneous-geochemistry in the Colombian Andes"
+3R,2022-01-01,2025-12-31,4.0,36,"Collaborative research: A better understanding of seismic hazard in Tehuantepec, Mexico, using amphibious MT studies"
+4A,2022-01-01,2024-12-31,3.0,128,Mapping the structure of the Duluth Complex & Animikie Basin
+4Y,2022-01-01,2023-12-31,2.0,10,"Unraveling the microseismic activity of the Puerto Aldea Fault, Chile"
+5L,2022-01-01,2022-12-31,1.0,76,Deep Crustal Magmatic Structure in the Vicinity of the Pāhala Earthquake Swarm
+5V,2022-01-01,2023-12-31,2.0,18,Thwaites Eastern Ice Shelf Daggers and Pinning Point Shear Zone
+5W,2022-01-01,2022-12-31,1.0,124,USGS CEUS SmartSolo Deployments
+6H,2022-01-01,2022-12-31,1.0,24,Imaging subglacial hydrology beneath the Greenland Ice Sheet
+6I,2022-01-01,2024-12-31,3.0,10,West_Tuscany_Project
+6W,2022-01-01,2022-12-31,1.0,273,LAB2022
+7M,2022-01-01,2022-12-31,1.0,98,SAGE 2022 investigations of the Valles Caldera - Node
+8S,2022-01-01,2022-12-31,1.0,10,Azores Network
+XM,2022-01-01,2024-12-31,3.0,78,TANGO-BB
+Y2,2022-01-01,2023-12-31,2.0,200,Geophysical Habitat of Subglacial Thwaites
+YK,2022-01-01,2022-12-31,1.0,31,Large High-Performance Outdoor Shake Table Upgrade Project - Characterization Tests
+Z1,2022-01-01,2024-12-31,3.0,38,Copper Basin Exploration Science Broadband Seismometer Profile
+Z5,2022-01-01,2024-12-31,3.0,21,"Dry Rifting In the Albertine-Rhino graben (DRIAR), Uganda"
+ZN,2022-01-01,2022-12-31,1.0,69,Imperial Valley Nodal Experiment
+ZV,2022-01-01,2022-12-31,1.0,11,"Stromboli volcano Temporary Deployment, May 2022"
+ZG,2022-04-01,2023-12-31,1.7,19,"Seismic Imaging of the Pea Ridge Mine area, Southeast Missouri"
+6L,2022-06-30,2023-06-30,1.0,455,TIME_NODES Phase II (formerly Thwaites Margins)
+2F,2022-09-01,2024-11-01,2.2,29,Toward a deeper understanding of Caldera Dynamics and Eruption Cycles at Axial Seamount
+4W,2022-10-10,2023-12-31,1.2,321,"Coupling erosion, weathering, and hydrologic function in an active orogenic system"
+7D,2022-12-01,2026-12-31,4.1,12,Puysegur Tremor And Nucleation Geophysical Observatory
+17,2023-01-01,2023-12-31,1.0,48,Nodal array monitoring of earthquakes and whale calls along the Lower St. Lawrence Seaway
+1A,2023-01-01,2023-12-31,1.0,92,USGS Debris Flow Flume Seismic Monitoring
+1H,2023-01-01,2023-12-31,1.0,30,"Exploring the potential of geophones for quantifying bedload tranpsort and river ice break up in the Canning River, Alaska"
+1U,2023-01-01,2028-12-31,6.0,18,ANSAR
+22,2023-01-01,2024-12-31,2.0,11,Pilot Observation of Crustal Unrest in the Regional Pocuro structural system
+2N,2023-01-01,2024-12-31,2.0,435,Groundwater monitoring in Northern Utah (GNU) from one-year nodal deployment
+2X,2023-01-01,2023-12-31,1.0,11,Array-based seismic measurements of OSIRIS-REx’s re-entry
+3H,2023-01-01,2024-12-31,2.0,49,An Open Access Experiment to Seismically Image Galapagos Plume-Ridge Interaction
+3J,2023-01-01,2025-12-31,3.0,27,Interactions between the Tonga-Lau subduction system and the Samoan plume
+3Y,2023-01-01,2024-12-31,2.0,91,Colorado Legacy Mine Hydrologic Monitoring Nodal Seismic Array
+4H,2023-01-01,2023-12-31,1.0,19,USGS Bald Eagle Sackung
+4Q,2023-01-01,2025-12-31,3.0,20,Receiver Function and Seismotectonics Analysis Northern Chile
+4Z,2023-01-01,2023-12-31,1.0,13,Boise Geothermal Summer Camp
+5J,2023-01-01,2023-12-31,1.0,11,Survey of upper 200 m structure near ANMO using hammer source
+5S,2023-01-01,2026-12-31,4.0,12,ABYSS onland - Monitoring giant subduction faults using distributed acoustic measurements on the seafloor
+6F,2023-01-01,2023-12-31,1.0,1577,Active and passive seismic interferometry of Kilauea volcano
+6H,2023-01-01,2024-12-31,2.0,933,San Francisco Volcanic Field Nodal Seismometer Deployment
+7N,2023-01-01,2024-12-31,2.0,30,"Eastwind Glacier Geophysical Surveys ON Top of Antarctic Ice Shelf Transition, Phase II"
+7P,2023-01-01,2024-12-31,2.0,982,TIME_NODES Phase III (formerly Thwaites Margins)
+7Q,2023-01-01,2023-12-31,1.0,33,Greenland Ice Drilling for Climate History; site selection
+8G,2023-01-01,2023-12-31,1.0,140,"San Fernando Valley, California Nodal Array (2023)"
+8K,2023-01-01,2023-12-31,1.0,103,"Advancing Forest Health Assessment through Multi-Method Geophysical Surveys: Case Study in Snodgrass, Colorado."
+8M,2023-01-01,2023-12-31,1.0,482,Kil_Act_HVOnodes
+8P,2023-01-01,2023-12-31,1.0,81,"Collaborative Research: Seismic hazard, lithospheric hydration, and the double-verging structure of the Puerto Rico subduction"
+9X,2023-01-01,2024-12-31,2.0,193,"CAREER: A comprehensive seismic investigation to the crust and uppermost mantle beneath the South Pole, East Antarctica"
+9Y,2023-01-01,2023-12-31,1.0,77,GEODES Potrillo Volcanic Field Active Nodal Seismic Experiment 2023
+XG,2023-01-01,2024-12-31,2.0,158,Geophysical Habitat of Subglacial Thwaites
+XS,2023-01-01,2023-12-31,1.0,329,Eastwind Glacier Geophysical Surveys ON Top Of Antarctic iceShelf Transition
+YA,2023-01-01,2023-12-31,1.0,420,Eastern Anatolian Fault Zone Afershock Deployment for the
+ZE,2023-01-01,2023-12-31,1.0,38,"Seismic determination of bedload and morphodynamic trends in the Nisqually River of Mount Rainier National Park, WA, USA"
+YB,2023-03-24,2025-12-31,2.8,16,Eastern Anatolian Fault Zone Afershock Deployment for the
+ZD,2023-04-25,2025-11-10,2.5,14,"Seismic determination of bedload and morphodynamic trends in the Nisqually River of Mount Rainier National Park, WA, USA"
+2V,2023-07-14,2026-12-31,3.5,12,Harnessing the Geothermal Potential of Oklahoma Sedimentary Basin
+1J,2024-01-01,2024-12-31,1.0,15,Bilek_bounce_test_oct2024
+1R,2024-01-01,2025-12-31,2.0,90,SeismoSands nodal experiment
+1W,2024-01-01,2025-12-31,2.0,14,"Passive Seismic Observations of a glacier surge: Turner Glacier, Alaska, USA (Turner Glacier)"
+2E,2024-01-01,2024-12-31,1.0,28,SZNet 2024 Ashland Field Campaign
+2P,2024-01-01,2025-12-31,2.0,18,Chain Transform Fault: Understanding the dynamic behavior of slow-slip ridge-transform systems
+2R,2024-01-01,2024-12-31,1.0,73,Mt. St. Helens 2024
+4H,2024-01-01,2024-12-31,1.0,71,"Rapid nodal deployment after the April 5, 2024 New Jersey earthquake"
+4N,2024-01-01,2025-12-31,2.0,16,4N - New Jersey 2024 Earthquake Sequence
+4U,2024-01-01,2024-12-31,1.0,10,"Fagnano fault Unveiled: Earthquake and Geodetic Observations, Tierra de Fuego, Chilean Patagonia"
+5F,2024-01-01,2024-12-31,1.0,180,Wainright Passive Seismic
+5G,2024-01-01,2024-12-31,1.0,244,Nodal seismic array to image magmatic system structure and seismicity of the Three Sisters volcanic complex
+5H,2024-01-01,2024-12-31,1.0,180,Passive survey of Meteor (Barringer) Crater with a node array.
+8K,2024-01-01,2024-12-31,1.0,295,Kilauea and Mauna Loa Rift Zone Imaging 2024
+8M,2024-01-01,2024-12-31,1.0,25,McDonald Dunn Research Forests
+8P,2024-01-01,2024-12-31,1.0,68,Nodal seismic array to examine the correlations between seismic and geodetic data
+9J,2024-01-01,2024-12-31,1.0,351,Kilauea East Rift Zone nodal array 2024
+X7,2024-01-01,2027-12-31,4.0,11,Western Mongolia Calibration Experiment
+X9,2024-01-01,2024-12-31,1.0,11,Isla Navarino Phased Array
+XW,2024-01-01,2024-12-31,1.0,202,Tierra Grande Nodal Deployment
+Y2,2024-01-01,2024-12-31,1.0,42,FORGE 2024 stimulation stress shadow-induced seismicity monitoring
+YA,2024-01-01,2025-12-31,2.0,98,Eastern Anatolian Fault Zone Afershock Deployment
+YG,2024-01-01,2025-12-31,2.0,53,"Earthquake location and subsurface characterization in the Lake Izabal Basin, Guatemala"
+Z7,2024-01-01,2024-12-31,1.0,80,"Nodal Seismometer Deployment at Oak Ridge earthflow near San Jose, CA"
+ZG,2024-01-01,2027-12-31,4.0,37,New Frontiers in Sound
+ZQ,2024-01-01,2024-12-31,1.0,11,Grace Lake passive seismic monitoring study
+ZT,2024-01-01,2024-12-31,1.0,15,Bilek_bounce_test_may2024
+ZZ,2024-01-01,2024-12-31,1.0,29,Cornell Spring 2024 Seismology Class Project
+13,2025-01-01,2026-12-31,2.0,20,Grounding zone Long-term Acoustic Sensing of Structure
+1B,2025-01-01,2025-12-31,1.0,26,RAPID: Small Aperture Arrays to Monitor the Debris Flow after Eaton Fire
+2B,2025-01-01,2025-12-31,1.0,58,Micro seismicity monitoring of the Malibu earthquake
+2H,2025-01-01,2025-12-31,1.0,148,Kilauea and Mauna Loa Rift Zone Imaging 2025
+3E,2025-01-01,2026-12-31,2.0,16,"MelaQuake: Shallow Earthquakes and Active Cortical Fault of Las Melosas, Andes Cordillera of Central Chile"
+3F,2025-01-01,2025-12-31,1.0,51,Trees and forests as seismic dampeners
+4E,2025-01-01,2025-12-31,1.0,103,Prototyping Alaska Coastal Arrays
+4H,2025-01-01,2025-12-31,1.0,290,Deployment of 200 nodal instruments in western MA as part of the New England Seismic Transects (NEST) project
+4K,2025-01-01,2026-12-31,2.0,38,Hicks Dome
+4U,2025-01-01,2026-12-31,2.0,93,"Nodal Deployment for Bedload Monitoring along Nahal Anim, Israel"
+6C,2025-01-01,2028-12-31,4.0,11,Seismic sensing to monitor changes in groundwater storage in California’s Central Valley
+6P,2025-01-01,2029-12-31,5.0,35,CLIMBS Seismic Array
+7P,2025-01-01,2027-12-31,3.0,149,Seismic Survey of the Fimbul Ice Shelf
+8K,2025-01-01,2025-12-31,1.0,36,"Monitoring sediment transport along Ashi-Arai-Dani river, central Japan"
+9I,2025-01-01,2026-12-31,2.0,200,Collaborative Research: Sensitivity of the West Antarctic Ice Sheet to 2° Celsius (SWAIS 2C)
+X9,2025-01-01,2026-12-31,2.0,54,Vega Rinconada and El Tatio Investigation of Geothermal Oscillations
+XN,2025-01-01,2026-12-31,2.0,106,Evaluating Las Vegas's Internal Seismic structure
+Z5,2025-01-01,2025-12-31,1.0,248,Rainier NP wide-aperture node array 2025
+ZT,2025-01-01,2025-12-31,1.0,25,CTEMPs DAS and DTS fiber optic test bed
+4O,2026-01-01,2028-12-31,3.0,92,4O
+XW,2026-01-01,2026-12-31,1.0,91,"Passive seismic recording in Deming, NM, collaboration with MT and airborne EM"
+YL,2026-01-01,2026-12-31,1.0,197,The Investigation of subsurface geometry of the Nacimiento Fault
+ZI,2026-01-01,2026-12-31,1.0,72,Ambient Seismic Noise at Glacier Creek Preserve
+ZN,2026-01-01,2026-12-31,1.0,57,CHILCO nodal experiment
