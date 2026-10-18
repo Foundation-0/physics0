@@ -1,6 +1,7 @@
 # Where Foundation0 can make progress in physics
 
-A survey made on 18 October 2026, when physics0 was empty. Foundation0's research so far (the incentre lattice,
+A survey made on 18 October 2026, when physics0 was empty. Areas that become projects get their own repository,
+listed in the [README](README.md). Foundation0's research so far (the incentre lattice,
 integer multiplication, GF(2) circuits, exact Fourier transforms) has been mathematics. Its most useful habit is
 the same everywhere: pick a question whose answer a machine can check, let AI agents do the search and the
 careful code, and publish the certificate alongside the claim. The areas below were chosen for that fit.
@@ -8,7 +9,7 @@ careful code, and publish the certificate alongside the claim. The areas below w
 Each entry gives the open question, why it suits people working with AI agents, how a result would be checked,
 and a first step.
 
-## 1. Maxwell's point-charge problem (started: [`maxwell/`](maxwell/))
+## 1. Maxwell's point-charge problem (started: [Foundation-0/point-charges](https://github.com/Foundation-0/point-charges))
 
 **Open question.** How many equilibria can $n$ positive point charges have? Maxwell's bound $(n-1)^2$ was
 disproved in July 2026 for five charges, and is open for three (bound between 4 and 6) and four charges.
@@ -22,7 +23,7 @@ decisive (the counterexample's idea came from an OpenAI model).
 exactly 24, and six charges with 29 > 25.
 
 **Next.** Decide $n=4$. A computer-assisted proof for three charges through the inverse-map reformulation.
-Constructions that grow faster than linearly in $n$.
+Constructions that grow faster than linearly in $n$. These are tracked as issues in point-charges.
 
 ## 2. Computer-assisted proofs in celestial mechanics
 
@@ -40,7 +41,7 @@ symmetry reduction. These are engineering-heavy proofs where agents save months.
 
 **Checking.** Rigorous enclosures, replayable by an independent verifier.
 
-**First step.** Reproduce the $n=5$ planar list with our certifier, then measure what $n=8$ costs.
+**First step.** Reproduce the $n=5$ planar list with the point-charges certifier, then measure what $n=8$ costs.
 
 ## 3. Physics in Lean
 
