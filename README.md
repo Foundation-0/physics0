@@ -17,7 +17,8 @@ it grows beyond that (code, certificates, verifiers, data), it gets its own repo
 
 [AREAS.md](AREAS.md) surveys open physics questions where people working with AI agents can make checkable
 progress: celestial mechanics proofs, physics in Lean, quantum-information records, the incentre lattice, open
-astronomical data, and independent checks of AI-made physics claims. The roadmap issue tracks which of them
+astronomical data (now in [astr0](https://github.com/Foundation-0/astr0)), independent checks of AI-made physics
+claims, archived seismic networks, climate data rescue and lanthanide atomic spectra. The roadmap issue tracks which of them
 become projects.
 
 ## How results are checked in every project
