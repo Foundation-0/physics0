@@ -11,7 +11,7 @@ it grows beyond that (code, certificates, verifiers, data), it gets its own repo
 
 | project | question | status |
 |---|---|---|
-| [point-charges](https://github.com/Foundation-0/point-charges) | How many equilibria can $n$ point charges have? (Maxwell, 1873) | Certified exact counts: 4 charges reach Maxwell's bound of 9; an explicit 5-charge counterexample has exactly 24; 6 charges have 29, above the bound of 25. Evidence for the open 3- and 4-charge cases. Not yet reviewed by a person. |
+| [point-charges](https://github.com/Foundation-0/point-charges) | How many equilibria can $n$ point charges have? (Maxwell, 1873) | Certified exact counts: 4 charges reach Maxwell's bound of 9; an explicit 5-charge counterexample has exactly 24; 6 charges have 29, above the bound of 25. Evidence for the open 3- and 4-charge cases. Reviewed by an independent AI agent (point-charges PR #1); not yet reviewed by a person. |
 
 ## Where next
 
@@ -29,3 +29,12 @@ become projects.
 - **Plain status labels.** Each project says what is proved, what is computed, what is only evidence, and who
   has (or has not) reviewed it.
 - **Credit.** Prior work is cited where it is used. Each project records which AI model did what.
+
+## Licence
+
+Copyright 2026 Foundation0 contributors.
+
+Code (`*.py`): [Apache License 2.0](LICENSE).
+Text and data (this README, `AREAS.md` and `data/`):
+[Creative Commons Attribution 4.0 International](LICENSE-CC-BY-4.0) (CC BY 4.0).
+Project repositories carry the same pair of licences unless they say otherwise.
