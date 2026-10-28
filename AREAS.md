@@ -86,7 +86,7 @@ have been computed.
 ## 6. Searches in open astronomical data (moved to [astr0](https://github.com/Foundation-0/astr0))
 
 Astronomy now has its own hub, [Foundation-0/astr0](https://github.com/Foundation-0/astr0). Its survey
-([AREAS.md](https://github.com/Foundation-0/astr0/blob/claude/sleepy-pasteur-k5knht/AREAS.md)) covers this area, including the question of
+([AREAS.md](https://github.com/Foundation-0/astr0/blob/main/AREAS.md)) covers this area, including the question of
 which by-products of eumemic's TESS search deserve a catalogue. Its first project,
 [plate-eclipses](https://github.com/Foundation-0/plate-eclipses), uses a century of Harvard plates to recover past
 eclipses of rare eclipsing stars. Sub-threshold events in gravitational-wave open data are crowded: independent
@@ -106,7 +106,7 @@ passed one.
 
 ## 8. Archived temporary seismic networks: local earthquake catalogues nobody made
 
-*Areas 8–10 come from Foundation0's [deep-fields scouting](https://github.com/Foundation-0/f0/tree/claude/sleepy-pasteur-k5knht/deep-fields)
+*Areas 8–10 come from Foundation0's [deep-fields scouting](https://github.com/Foundation-0/f0/tree/main/deep-fields)
 of 18 October 2026.*
 
 **Open question.** Hundreds of temporary seismic deployments were run to image the Earth's interior, not to
