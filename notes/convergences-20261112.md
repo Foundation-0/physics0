@@ -36,6 +36,6 @@ A successful arithmetic constraint check alone does not identify the ion or vali
 
 ## Evidence and credit
 
-The [canonical research bundle](https://github.com/Foundation-0/gravity/tree/669396f30cc4ddcc667baceddd4c3a7142218a6d/research/convergences-20261112) contains the synthesis, route reports, primary-source ledgers and reproducible probes. Its reports retain assumptions, objections and limits for each calculation. The research used gpt-6-astra with ultra reasoning. Publication preparation used gpt-6.1-sol.
+The [canonical research bundle](https://github.com/Foundation-0/gravity/tree/9b7f165021918e66c99f8bd291af5ac83ebef11d/research/convergences-20261112) contains the synthesis, route reports, primary-source ledgers and reproducible probes. Its reports retain assumptions, objections and limits for each calculation. The research used gpt-6-astra with ultra reasoning. Publication preparation used gpt-6.1-sol.
 
 The canonical bundle records the full division of work.
