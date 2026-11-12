@@ -8,6 +8,6 @@ A physical continuation needs a declared action and background, admissible const
 
 For photon records, pursue a bounded correction to interpretation. The known scattering calculation distinguishes interference decay from readable records using an explicit angular state. A decoherence-rate approximation alone does not supply a record rate. Park a new research programme until a specified illumination or detector configuration adds a question absent from prior work.
 
-[Canonical closure and response gates](https://github.com/Foundation-0/gravity/tree/a89a975978797c4b6e3ad6aca334d82d5aa6fa68/research/value-assessment-20261112/closure) and [photon-record reproduction](https://github.com/Foundation-0/gravity/tree/a89a975978797c4b6e3ad6aca334d82d5aa6fa68/research/value-assessment-20261112/convergences) follow the [earlier companion](https://github.com/Foundation-0/physics0/pull/16).
+[Canonical closure and response gates](https://github.com/Foundation-0/gravity/tree/7c44e92162320d510b959ebd9ffddbad1b017f5a/research/value-assessment-20261112/closure) and [photon-record reproduction](https://github.com/Foundation-0/gravity/tree/7c44e92162320d510b959ebd9ffddbad1b017f5a/research/value-assessment-20261112/convergences) follow the [earlier companion](https://github.com/Foundation-0/physics0/pull/16).
 
 The assessed physics0 snapshot is `913468f093f82d869dc58b404039ea0a416cfb80`. No new observation, material measurement or interacting AeST simulation is reported.
