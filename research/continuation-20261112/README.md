@@ -8,10 +8,11 @@ These are public draft changes with internal agent review. The research and inde
 
 | Thread | Concrete result | Canonical work |
 |---|---|---|
-| AeST field response | Allowed states can share initial density, momentum and metric while different field data change later pressure and gravitational potentials. A separate ADM implementation reproduces the constraints and evolution. | [gravity PR #12](https://github.com/Foundation-0/gravity/pull/12) |
-| Fixed angular mechanics | Peak internal displacement per unit strain scales as 0.404226/sqrt(kappa) near the open fold. An alternating rotation proves endpoint instability for every kappa > 0 under the prescribed holding loads. | [incentre-lattices PR #100](https://github.com/Foundation-0/incentre-lattices/pull/100) |
-| Galaxy acceleration diagnostic | The KMOS peak-speed proxy falls by 0.167484 dex between the selected low and high redshift groups. Gas estimates account algebraically for 0.163843 dex of that change. | [astr0 PR #7](https://github.com/Foundation-0/astr0/pull/7) |
-| Decoherence and records | The Witness Map computes a decoherence timescale. Its inputs do not determine readable or redundant environmental records. The page and documentation now distinguish these quantities. | [fractals PR #54](https://github.com/Foundation-0/fractals/pull/54) |
+| AeST field response | Allowed states can share initial density, momentum and metric while different field data change later pressure and gravitational potentials. A separate ADM implementation reproduces the constraints and evolution. A declared slow-subspace test still gives 24.6–27.4% zero-pressure baseline errors, independently reproduced with the original field equations. | [AeST response](https://github.com/Foundation-0/gravity/pull/12) |
+| Fixed angular mechanics | Peak internal displacement per unit strain scales as 0.404226/sqrt(kappa) near the open fold. An alternating rotation proves endpoint instability for every kappa > 0 under the prescribed holding loads. | [Fixed-angle mechanics](https://github.com/Foundation-0/incentre-lattices/pull/100) |
+| Galaxy acceleration diagnostic | The KMOS peak-speed proxy falls by 0.167484 dex between the selected low and high redshift groups. Gas estimates account algebraically for 0.163843 dex of that change. | [KMOS diagnostic](https://github.com/Foundation-0/astr0/pull/7) |
+| Cosmic-dawn corrections | Direct radial integration replaces an invalid shortcut. Composition and radiative efficiency change light-seed growth clocks. The assigned trapping fraction and nonlinear halo mass do not establish black-hole capture or a seed mass. | [Wave 11/12 corrections](https://github.com/Foundation-0/gravity/pull/13) |
+| Decoherence and records | The Witness Map computes a decoherence timescale. Its inputs do not determine readable or redundant environmental records. The page and documentation now distinguish these quantities. | [Witness Map correction](https://github.com/Foundation-0/fractals/pull/54) |
 
 The earlier [value assessment](https://github.com/Foundation-0/gravity/pull/11) supplies the source audit, rejected interpretations and first mathematical gates. The current results execute its justified next tests. Their canonical repositories contain code, provenance, numerical outputs and independent checks.
 
@@ -42,16 +43,26 @@ Between the low and high groups, q=1 predicts a rise of 0.310524 dex. The observ
 
 Those are conditional requirements, not estimated probabilities for calibration errors. The table lacks individual joint errors, asymptotic velocities and a survey-selection model. Further fitting to the same point values cannot identify q without additional information. The existing gas scaling relation must not be treated as an independent gas measurement.
 
-## Remaining gates
+## Evidence needed to reopen each lane
 
 | Lane | Current boundary | Evidence that would justify continuation |
 |---|---|---|
-| AeST | The specified linear response and internal review are complete. A separately declared slow-subspace preparation test is in progress. | Its result determines whether the chosen simple closures work for that restricted ensemble. A physical cosmology or nonlinear collapse study needs its own action parameters and initial conditions. |
+| AeST | The linear response, slow-subspace test and both independent reviews are complete for the specified action and background. | A physical cosmology, justified initial spectrum or invariant slow-state prescription. Further parameter scans would add assumptions without answering the original fixed-model question. |
 | Mechanics | The fixed ideal-model question has a quantitative answer and an exact endpoint counterexample. | A concrete hinge, boundary loading and fabrication tolerances for a realizable specimen. More arbitrary spring variants do not resolve those requirements. |
 | Observations | The available point-table diagnostic and independent review are complete. | Independent velocity/gas calibrations, correlated uncertainties and selection, or resolved profiles for a radial-acceleration analysis. |
 | Witness Map | The interpretation correction is implemented and separately reviewed. | A specified environmental state and accessible photon fragments if a redundancy calculation is desired. |
-| Cosmic-dawn and origin claims | The earlier audit identifies numerical and interpretation errors. Corrections to the source calculations are in progress. | A physical capture/seed solution or comparative observational likelihood, beyond the assigned trapping fraction and total-halo mass. |
+| Cosmic-dawn and origin claims | The numerical and interpretation corrections are public and independently checked. Conditional growth clocks do not exclude every light-seed history. | A physical capture/seed solution or comparative observational likelihood, beyond the assigned trapping fraction and total-halo mass. |
 
 The fifth-dimension picture and universe-collision creation analogy still lack a specified dynamics with an observable difference from existing descriptions. [Pair production](https://doi.org/10.1103/PhysRevLett.127.052302) already supplies an inverse to particle annihilation in known physics. These ideas do not become evidence for a new origin mechanism merely by resembling a result in another thread.
 
 The stopping criterion is that the currently specified, informative tests have been executed or require a named new input. It is not a claim that all worthwhile physics research has been exhausted.
+
+## Reproducibility and handoff
+
+The gravity corrections have separate scopes. [Chirp-mass repair](https://github.com/Foundation-0/gravity/pull/10) repairs a false chirp-mass bound. [Lean build repair](https://github.com/Foundation-0/gravity/pull/14) repairs duplicated Lean declarations. Together they pass the full local Lean build. The proofs establish their stated mathematical propositions, not the physical hypotheses attached to them.
+
+[Checksum repair](https://github.com/Foundation-0/gravity/pull/15) fixes a certificate metadata key and refreshes the byte manifest. All 36 entries and eleven generator/verifier checks pass on that branch. Hashes must be recomputed when other PRs alter the listed files. Byte identity, numerical agreement, proof compilation and scientific validity are separate claims.
+
+The [exact integration record and replay patch](gravity-composition/COMPOSITION.md) combine the four source repairs. That local composition passes the full Lean build, seven correction controls, three certificate checks and all 38 composed file hashes. It records the documentary overlap and exact source revisions.
+
+All five repository main branches were refreshed on 12 November 2026. Their heads remained unchanged during this continuation. The linked results are open drafts, published incrementally as calculations and reviews finished. They are available to build on now. No merge or site deployment has occurred.
