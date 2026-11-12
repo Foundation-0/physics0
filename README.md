@@ -50,3 +50,7 @@ Text and data (this README, `AREAS.md` and `data/`):
 [Creative Commons Attribution 4.0 International](LICENSE-CC-BY-4.0) (CC BY 4.0).
 Project repositories carry the same pair of licences unless they say otherwise.
 
+
+## Research value assessment
+
+The [12 November assessment](research/value-assessment-20261112/) records the bounded next study, evidence and stopping gates.
