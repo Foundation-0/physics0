@@ -68,3 +68,5 @@ Hashes must be recomputed when other PRs alter the listed files. Byte identity, 
 The [earlier integration record and replay patch](gravity-composition/COMPOSITION.md) combine the four source repairs. That local composition passes the full Lean build, seven correction controls, three certificate checks and all 38 composed file hashes. It records the documentary overlap and exact source revisions.
 
 The initial continuation refreshed all five main branches. A subsequent [gravity update review](gravity-update-d144448.md) covers four new documentation and manifest commits through d144448. It changes no physical calculation or observational input. The linked work remains public in open drafts. No merge to main or site deployment has occurred.
+
+The [current-main integration bundle](gravity-composition-d144448/COMPOSITION.md) composes the four repairs on gravity d144448. Its fresh local checks pass 15 Lean build jobs, seven controls, three certificate checks and 39 hashes. All 32 source-file comparisons and the 53-file patch replay match. The earlier bundle remains historical. These are local integration results, distinct from hosted CI and merged main.
