@@ -61,8 +61,10 @@ The stopping criterion is that the currently specified, informative tests have b
 
 The gravity corrections have separate scopes. [Chirp-mass repair](https://github.com/Foundation-0/gravity/pull/10) repairs a false chirp-mass bound. [Lean build repair](https://github.com/Foundation-0/gravity/pull/14) repairs duplicated Lean declarations. Together they pass the full local Lean build. The proofs establish their stated mathematical propositions, not the physical hypotheses attached to them.
 
-[Checksum repair](https://github.com/Foundation-0/gravity/pull/15) fixes a certificate metadata key and refreshes the byte manifest. All 36 entries and eleven generator/verifier checks pass on that branch. Hashes must be recomputed when other PRs alter the listed files. Byte identity, numerical agreement, proof compilation and scientific validity are separate claims.
+[Checksum repair](https://github.com/Foundation-0/gravity/pull/15) fixes a certificate metadata key and refreshes the byte manifest. At the earlier repair snapshot, all 36 entries and eleven generator/verifier checks passed. The current-main refresh repeats all 36 byte checks and Wave 4 regeneration, with the same 29 source and certificate files.
 
-The [exact integration record and replay patch](gravity-composition/COMPOSITION.md) combine the four source repairs. That local composition passes the full Lean build, seven correction controls, three certificate checks and all 38 composed file hashes. It records the documentary overlap and exact source revisions.
+Hashes must be recomputed when other PRs alter the listed files. Byte identity, numerical agreement, proof compilation and scientific validity are separate claims.
 
-All five repository main branches were refreshed on 12 November 2026. Their heads remained unchanged during this continuation. The linked results are open drafts, published incrementally as calculations and reviews finished. They are available to build on now. No merge or site deployment has occurred.
+The [earlier integration record and replay patch](gravity-composition/COMPOSITION.md) combine the four source repairs. That local composition passes the full Lean build, seven correction controls, three certificate checks and all 38 composed file hashes. It records the documentary overlap and exact source revisions.
+
+The initial continuation refreshed all five main branches. A subsequent [gravity update review](gravity-update-d144448.md) covers four new documentation and manifest commits through d144448. It changes no physical calculation or observational input. The linked work remains public in open drafts. No merge to main or site deployment has occurred.
