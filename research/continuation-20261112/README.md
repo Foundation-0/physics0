@@ -4,6 +4,8 @@ The continued search has produced a constrained field-response calculation, a me
 
 These are public draft changes with internal agent review. The research and independent scientific reviews used separate gpt-6-astra agents at ultra reasoning. Publication and specified implementation work used gpt-6.1-sol. External scientific review has not occurred.
 
+The subsequent [wider research refresh](new-research-convergences.md) reviews new Vitruvian geometry, exoplanet screening and verification tools. It includes a synthetic transit rejected by the seeded search's SDE gate, the checker repair and a planning proof correction. The [source snapshot](new-research-sources.json) records the selected public references.
+
 ## Results available to build on
 
 | Thread | Concrete result | Canonical work |

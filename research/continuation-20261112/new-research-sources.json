@@ -1,0 +1,84 @@
+{
+  "observed_at_utc": "2026-11-13T03:08:47.310202+00:00",
+  "survey_count": 41,
+  "scope": "Selected public research references from a main-head inventory. Older-method rows were scouted, not independently scientifically verified. Open branches reviewed separately.",
+  "selected_main_sources": [
+    {
+      "name": "exoplanets-frontier",
+      "url": "https://github.com/Foundation-0/exoplanets-frontier",
+      "head": "883e28a7cecde05fdb6679bf574dbe78668332e7",
+      "commitDate": "2026-11-13T03:05:46Z"
+    },
+    {
+      "name": "gravity",
+      "url": "https://github.com/Foundation-0/gravity",
+      "head": "65b236d88439f5dad632f95cc3221b84232288c7",
+      "commitDate": "2026-11-13T02:56:49Z"
+    },
+    {
+      "name": "physics0",
+      "url": "https://github.com/Foundation-0/physics0",
+      "head": "913468f093f82d869dc58b404039ea0a416cfb80",
+      "commitDate": "2026-10-28T04:51:53Z"
+    },
+    {
+      "name": "vitruvian3d",
+      "url": "https://github.com/Foundation-0/vitruvian3d",
+      "head": "e7445d56b9ecfd97b408653a2726f3bab70a6e4c",
+      "commitDate": "2026-11-12T23:57:51Z"
+    },
+    {
+      "name": "fractals",
+      "url": "https://github.com/Foundation-0/fractals",
+      "head": "48b923bd25dbcfef7fa8e8399d4144592145f0ef",
+      "commitDate": "2026-11-11T16:59:42Z"
+    },
+    {
+      "name": "astr0",
+      "url": "https://github.com/Foundation-0/astr0",
+      "head": "67cafe2defc44d5a4e17815fc7329f65eeef45eb",
+      "commitDate": "2026-10-28T04:52:33Z"
+    },
+    {
+      "name": "point-charges",
+      "url": "https://github.com/Foundation-0/point-charges",
+      "head": "a2fd159bccb24d2922a127ad83f28b9f44e2ceba",
+      "commitDate": "2026-11-11T19:41:28Z"
+    },
+    {
+      "name": "certified-orbits",
+      "url": "https://github.com/Foundation-0/certified-orbits",
+      "head": "51f69833cd64ff3c1bc65c429566714fa2c9c17e",
+      "commitDate": "2026-11-11T17:52:46Z"
+    },
+    {
+      "name": "relative-equilibria",
+      "url": "https://github.com/Foundation-0/relative-equilibria",
+      "head": "bf1e1cedeb42848f67fbd014a295e100137e6a6d",
+      "commitDate": "2026-11-11T17:52:39Z"
+    },
+    {
+      "name": "rigid-realizations",
+      "url": "https://github.com/Foundation-0/rigid-realizations",
+      "head": "298926c5e7a03683bb83165931ac38a94260166f",
+      "commitDate": "2026-11-11T20:51:46Z"
+    },
+    {
+      "name": "finite-state-proofs",
+      "url": "https://github.com/Foundation-0/finite-state-proofs",
+      "head": "9eeb3da2cdd6ba6b100ac24d23b32c369c0db8ec",
+      "commitDate": "2026-11-11T17:53:30Z"
+    }
+  ],
+  "reviewed_branches": {
+    "formal-claims-audit/16": "467a580956824e76c193f8ae72d83f0a330ecd3d",
+    "f0/36": "f6d42123287b58e98801e6e5d77b384fcb0099ac",
+    "math0/9": "3d3198246c4f2ee1fc1079c57cdd936c4f2b34d0"
+  },
+  "public_increments": [
+    "https://github.com/Foundation-0/vitruvian3d/pull/9",
+    "https://github.com/Foundation-0/exoplanets-frontier/pull/6",
+    "https://github.com/Foundation-0/formal-claims-audit/pull/17",
+    "https://github.com/Foundation-0/f0/pull/37"
+  ]
+}
