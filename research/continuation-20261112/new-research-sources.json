@@ -80,5 +80,16 @@
     "https://github.com/Foundation-0/exoplanets-frontier/pull/6",
     "https://github.com/Foundation-0/formal-claims-audit/pull/17",
     "https://github.com/Foundation-0/f0/pull/37"
-  ]
+  ],
+  "late_main_refresh": {
+    "gravity": {
+      "head": "a22aa26251d5d5db86f65a4fd03f50251e187d36",
+      "changes": "index.html only; page claims remain subject to previous scientific corrections"
+    },
+    "exoplanets-frontier": {
+      "head": "3636257c9852fcd805a84734a18516526cd1d746",
+      "changes": "CLAIMS.md C-07 only; original source and result hashes unchanged",
+      "response": "Negative-control provenance and screen interpretation addendum in owning PR"
+    }
+  }
 }

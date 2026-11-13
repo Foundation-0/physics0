@@ -26,6 +26,8 @@ The [Issue 5 audit](https://github.com/Foundation-0/exoplanets-frontier/pull/6) 
 
 The source exposes a sharper issue: `known_nasa` can arise from the upstream candidate list itself. An executable control reproduces this with empty external catalogs. That flag therefore cannot serve as independent confirmation. The screen's habitable-zone label also lacks an explicit habitable-zone acceptance condition.
 
+A later C-07 ledger update prompted a provenance check. All six signals match a pinned upstream inverted-light-curve control table, and five already have upstream vetting failures. The corrected claim records that association and the later screen's rejection. It does not call this a blinded experiment, establish exclusive historical origin, or validate the comparison objects as planets.
+
 A bounded follow-up now demonstrates a sensitivity limit. The unchanged seeded search recovers a fixed 25-day synthetic transit with corrected MES 49.76 but SDE 7.23, below its 7.5 acceptance gate. A 17-day control passes. A separate lead replay reproduces the saved output. This tests one gate, not survey completeness, and does not rescue any real candidate.
 
 This connects to the KMOS acceleration analysis through inference, not through a common physical mechanism. In KMOS, velocity and gas calibration can absorb an apparent redshift trend. Here catalog lineage and the screen's selection function determine what a rejection or successful crossmatch can establish.
@@ -54,6 +56,8 @@ The finite-state-proofs work makes the semantic obligation explicit: a checked s
 
 ## What changes in the original four-repository assessment
 
-The new gravity main commit adds an incomplete page fragment. It changes no physical calculation. Main in fractals, physics0 and astr0 was unchanged from the preceding review. Their existing research drafts remain the canonical sources for the AeST response, mechanical instability, KMOS calibration diagnostic and decoherence-versus-record distinction.
+Gravity's page commits through `a22aa26251d5d5db86f65a4fd03f50251e187d36` add explanatory HTML and JavaScript. They change no calculation or source data. The page repeats the previously reviewed trapping and heavy-seed interpretation. Those claims remain subject to the existing cosmic-dawn corrections, regardless of their presentation.
+
+Main in fractals, physics0 and astr0 was unchanged from the preceding review at the initial snapshot. Their existing research drafts remain the canonical sources for the AeST response, mechanical instability, KMOS calibration diagnostic and decoherence-versus-record distinction.
 
 The useful research question is still what information a model must keep to predict a declared observable. New geometry makes that question concrete even at matched density. The observational and checker audits show why trustworthy conclusions also require provenance, calibration and a complete acceptance contract. These connections merit research without implying a universal mechanism.
