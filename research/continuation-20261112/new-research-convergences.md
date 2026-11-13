@@ -12,7 +12,13 @@ This strengthens the earlier graph-versus-geometry comparison. Controlling densi
 
 The layer construction gives another useful distinction. A one-cell switching barrier need not remain a nonzero expansion fraction in large cells. Sequential conversion of N layers requires a fixed absolute excess volume, so its excess per motif scales as 1/N. The period vector moves. A fixed exterior instead prohibits the specified finitely supported translations.
 
-The fixed-angle mechanical instability remains intact under its own assumptions. A feasible geometric path supplies no energy law, stable material or gravitational dynamics. The geometry results do justify a focused next question about transport under an explicitly specified constitutive law.
+The follow-up resolves one physical-model question. Assign uniform positive conductivity to the open space accessible to probe centers and zero conductivity outside. Define the bulk tensor by minimizing periodic potential energy per cell volume. Certified route tubes give positive response in their winding directions, and an insulating slab gives an exactly zero response normal to it.
+
+This yields rank two versus rank three for the stated static conductivity tensor. The proof constructs finite-energy currents and an explicit zero-energy potential. Its exact checks give conservative positive lower bounds. A separate reviewer recomputes the lattice, route and matrix inequalities without importing the author's checker.
+
+The conducting region here is accessible space, not the solid structure. The result does not derive particle diffusion or fluid flow. It establishes that a declared response law can distinguish structures whose prescribed graph and occupied fraction agree. Conducting volume and tensor magnitude need not agree.
+
+The fixed-angle mechanical instability remains intact under its own assumptions. A feasible geometric path supplies no stable material or gravitational dynamics. Brownian transport, useful engineering rates and a realizable specimen remain separate questions. This static result does not require solving all of them first.
 
 ## Observations need provenance and calibration
 
