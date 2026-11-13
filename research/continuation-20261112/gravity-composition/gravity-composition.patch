@@ -1,0 +1,277 @@
+diff --git a/CHANGELOG.md b/CHANGELOG.md
+index f58316e..96591ad 100644
+--- a/CHANGELOG.md
++++ b/CHANGELOG.md
+@@ -9,6 +9,10 @@
+ - Restored present density closure in curved CPL examples. Corrected the Urueña Palomo citation and removed unsupported origin, protected-remnant, seed and gravitational-wave background inferences.
+ - Regenerated only Wave 11 and Wave 12 certificates as schema 1.1. [Correction details](WAVE11_12_CORRECTIONS.md) document changed fields, limits and seven numerical controls. The earlier independent findings are public in [PR #11](https://github.com/Foundation-0/gravity/pull/11). Human scientific review remains pending.
+ 
++## Lean build repair -- 2026-11-12
++- Removed trailing duplicate declaration blocks and malformed comment fragments in the Wave 5, 6, and 7 Lean files. Kept the current theorem statements and proofs, and retained the three distinct earlier arithmetic statements under names ending in `_legacy_arithmetic`.
++- These checks establish integer identities and inequalities only. They do not validate the physical models.
++
+ ## Wave 10 -- 2026-11-12: Linear Sound-Speed No-Go, Dark-WHIM Nonlinear Collapse Scale & Reasoning Ledger (`C-25`..`C-27`; `M-08`)
+ - Added `wave10_covariant_jeans_unification.py`, `results/wave10_covariant_jeans_certificates.json` (`sha256_canonical = 7dd4b40172b8fe261c3028f7a6af6e2b5131fb93cd83d10c439e3c5f0c5be3d4`), `formal/Wave10JeansDerivation.lean`, and `RESEARCH_NOTEBOOK_AND_REASONING.md`.
+ - Proved the homogeneous linear FLRW sound-speed no-go (`C-25`): `c_s(z=0) = 185 km/s` on linear scales gives `lambda_J,com = 25.10 Mpc`, `z = 1100` matter density exceeds `200 * rho_crit0` halos by `2.103e6x` (ruling out monotone `P(rho)` polytropes), and constant-`M` `k^4` scordatura shrinks `k_J,com` by `0.1736x` at `z = 1100`.
+diff --git a/CHECKSUM_PROVENANCE.md b/CHECKSUM_PROVENANCE.md
+new file mode 100644
+index 0000000..955ba42
+--- /dev/null
++++ b/CHECKSUM_PROVENANCE.md
+@@ -0,0 +1,42 @@
++# Checksum snapshot provenance
++
++Source commit: `364fa3e9f740f42acaa1991428ce043f547e10dd`. Manifest last changed at `f8030d6`.
++
++This snapshot records file bytes only. It does not establish proof compilation, generator agreement, or physical validity. No scientific values or source files are changed.
++
++## Certificate metadata repair
++
++The Wave 4 JSON used `sha_26_canonical` instead of the expected `sha256_canonical` key. Regeneration changes only that key. Its value, `1a7f2ff0182b66d1a081e59e750b493afa6beaab0d976c5af2c6c72652d4452d`, and every scientific field remain unchanged. The existing generator now passes `--check`. The previous outer file hash was `824d1a5d68f16a2383d6afd3397776d3f3ae99361595379eb827fa71d69321ea`.
++
++## Inherited fingerprint mismatches
++
++| File | Previous SHA-256 | Source-commit SHA-256 | Last file commit |
++| --- | --- | --- | --- |
++| `lakefile.toml` | `0ef38cabbe87049f2f99abc3fe0c45578d2c72ec7fd417dc562e50a2dbf133d9` | `31431d19675149705eb32b27f85c600ed6df022d5eac661fb55fe0488f55bfaa` | `3f7a5b1 Wave 12: register Wave12QuasarCollapse target in lakefile.toml` |
++| `verify_all.py` | `1e907f6af0b1dcc633feec478aebd4997e52f048f6d3ba99974f6c03a707dac1` | `49bd79489023aed0f6d1b325734012a6b6e0bf4b0b20755e83f20e7fd332583c` | `7f388db Add Wave-10 assumptions, M-08 cross-epoch method, and certificate checksum` |
++| `wave5_unified_forces_stochastic_qm.py` | `290a9bbb1ddd8140e7e27c25a46ebf30012cf1c4c796e0d354f95a0a9f0ca327` | `effc8ef25d4489d9cf2d6ea0c0af78d7707fb2c246038f191c8cda22e2a8762d` | `7f388db Add Wave-10 assumptions, M-08 cross-epoch method, and certificate checksum` |
++| `formal/verify_exact_rational_proofs.py` | `606431af2e1366cff43a658c65080f146789fe6e7159f317648cc621f7a8cb28` | `d0acfe8ea3ab801f5538999979c3e4f69545b1734b02a998451d4263f69b3ce6` | `7f388db Add Wave-10 assumptions, M-08 cross-epoch method, and certificate checksum` |
++| `formal/GravityClaims.lean` | `db6e4a202d357b5bd175b20b971b3a79e3b34a573382e2f0e5ed4341d0507562` | `c2e635f3af901aef8b51b529f46d2c16742c06c597a543e8cf518f4eb636f70e` | `7f388db Add Wave-10 assumptions, M-08 cross-epoch method, and certificate checksum` |
++| `formal/Wave5StochasticForces.lean` | `a097c2ea83cf1ad0788d8969427737c6e5b1d2250d6c1f3f529178e39903eeda` | `8702c37822bcc1178d5d5cade50d59929f8550a61a45cb38ebcc3c5e1d48b9f9` | `7f388db Add Wave-10 assumptions, M-08 cross-epoch method, and certificate checksum` |
++| `formal/Wave6Convergence.lean` | `fd52c8d997ccf9873cfd020f19f62b27dbfbdecda0234075ddd571193e0a9385` | `4474b263b026d97089dcd8cc154b4ec5964212554901e66a63b16f88094a106d` | `7f388db Add Wave-10 assumptions, M-08 cross-epoch method, and certificate checksum` |
++| `formal/Wave7ThresholdAudit.lean` | `41cd166341b517f3ab316ad5987cd9c74e5a2d443d763d948cde869d285a0672` | `f8b168944f4364fe6eb2b1af64695b224e5dd8f5ba8f086168b08fcc2bce3fd6` | `7f388db Add Wave-10 assumptions, M-08 cross-epoch method, and certificate checksum` |
++| `results/wave4_unified_certificates.json` | `7bb2326b36aab2c09c542a112317e4afccd0ffee2f74cdd6a8cc2a65b230255e` | `824d1a5d68f16a2383d6afd3397776d3f3ae99361595379eb827fa71d69321ea` | `7f388db Add Wave-10 assumptions, M-08 cross-epoch method, and certificate checksum` |
++| `README.md` | `5e882f682fd25e980a7f933668fd177b8136208185095b747dc327bc1806f078` | `b72f86c977c4b2052d70f4a82b4980db947f6c573e7bfae7e288d561c38b91ae` | `70a1204 Wave 12: index Wave 12 solver, Lean target & C-31..C-33 in README.md` |
++| `CLAIMS.md` | `c459b23829444a125fd0b682ab01dc34441088566292b9dad13566ee3b29b6df` | `223059cc0b79fbc1dfe4c2ab801c2610ee898316e66409084f059a9b1aac1a23` | `364fa3e Wave 12: add audited claims C-31..C-33 to CLAIMS.md` |
++| `RESEARCH_NOTEBOOK_AND_REASONING.md` | `3c4427c87d5c53ac62bbb1a8b41836b6a567485f1716d5c29329d6809f24e45e` | `407c4cfbda5ac32e35dfc234530436b15fb963e28971f82888377c0a268751f4` | `c5809bc Add Wave 11 hypotheseWave 11: document Machian inertia, DESI turnaround & CPT pair reasoning in notebooks on inertia and dark matter` |
++
++Nine of these mismatches also exist on the Wave 11/12 audit branch at `e5d7ee813e33de03c91857e48a2d55a0caf55506`. That branch has refreshed README, CLAIMS, and the reasoning notebook.
++
++The eight entries last changed at `7f388db` already disagree with the later `f8030d6` manifest. The other four entries changed after that manifest. This history establishes stale or incorrect file fingerprints. It does not establish the scientific correctness of the file contents.
++
++## Coverage and checks
++
++The existing 30 manifest entries are retained. Six tracked files are added: the Wave 11 and Wave 12 generator scripts, their JSON certificates, and their Lean libraries. `SHA256SUMS` and this provenance note are excluded to avoid self-referential hashes.
++
++Existing generator `--check` runs pass for Waves 3, 4, 5, 6, 7, 9, 10, 11, and 12. `verify_all.py --check` and `formal/verify_exact_rational_proofs.py --check` also pass and regenerate byte-identical certificate files.
++
++The full Lean build on the source commit fails. The separate corrections in PRs 10 and 14 are required for a successful full build. Adding Lean files to this byte inventory does not establish that they compile.
++
++Manifest values describe this branch snapshot. Recompute hashes for files subsequently changed by PRs 10, 12, 13, or 14. These independent changes have not been composed on main.
++
++Recompute the listed bytes with `shasum -a 256 -c SHA256SUMS`. A successful result means only that the listed bytes match this snapshot.
+diff --git a/CLAIMS.md b/CLAIMS.md
+index e602c61..efa3b42 100644
+--- a/CLAIMS.md
++++ b/CLAIMS.md
+@@ -179,4 +179,4 @@ Every claim separates its **physical status** from any **arithmetic lemma**:
+ - **C-33 (Slim-Disk Photon-Trapping Super-Eddington Growth, `5.56 pkpc` Orbital Projection & NANOGrav Chirp Mass)** -- `COMPUTED (KNOWN-FRAMEWORK)`
+   - *Computation & Inputs:* With `mdot = 0.10 dotM_in c^2 / L_Edd`, the assigned luminosity is `lambda = mdot` below two and `2(1 + ln(mdot/2))` above. Mass conservation gives retained growth proportional to `mdot - 0.10 lambda`, not `0.90 mdot` above saturation. With no outflows and constant coefficients, `mdot = 3, 5` gives `273.78, 161.23 Myr` for a `100 M_sun` seed to reach `1.5e9 M_sun`.
+   - *Binary limits:* The projection `0.0438` uses a point velocity and assumed enclosed mass, not a measured inclination. The chirp mass is `6.4735e8 M_sun`. Circular isolated Peters clocks at `0.05-0.10 pc` are `3.19-50.99 Myr`. Reaching those separations and predicting a stochastic background require hardening and population models that are absent.
+-  - *Lean Arithmetic Lemma (`PROVEN (ARITHMETIC-LEMMA)` in `formal/Wave12QuasarCollapse.lean`):* Checks `100 < 123`, `100 < 107`, and contains the false bound `19 * 647^5 < 15^3 * 4^2 * 10^10 < 19 * 648^5`. The chirp-mass proof repair is tracked separately in [PR #10](https://github.com/Foundation-0/gravity/pull/10). This correction does not change Lean files.
++  - *Lean Arithmetic Lemma (`PROVEN (ARITHMETIC-LEMMA)` in `formal/Wave12QuasarCollapse.lean`):* Checks `100 < 123`, `100 < 107`, and `19 * 647^5 < 15^3 * 4^3 * 10^10 < 19 * 648^5`. The proof repair is included in this composition.
+diff --git a/SHA256SUMS b/SHA256SUMS
+index ba4d1d8..2f71875 100644
+--- a/SHA256SUMS
++++ b/SHA256SUMS
+@@ -1,18 +1,18 @@
+ ca5f1f601d34c49079e38d7e7041eb0f2a9c227fbc1df0f404820069a052330c  lean-toolchain
+-0ef38cabbe87049f2f99abc3fe0c45578d2c72ec7fd417dc562e50a2dbf133d9  lakefile.toml
+-1e907f6af0b1dcc633feec478aebd4997e52f048f6d3ba99974f6c03a707dac1  verify_all.py
++31431d19675149705eb32b27f85c600ed6df022d5eac661fb55fe0488f55bfaa  lakefile.toml
++49bd79489023aed0f6d1b325734012a6b6e0bf4b0b20755e83f20e7fd332583c  verify_all.py
+ b60038ff0cec5f2ff108c98b8db04420dbc564abde4350482c225fc4a4d343ba  wave3_empirical_audit.py
+ d864d69999aa60fde3611703705032d66edff60be6ecb6d623b4e12a08bd8cc3  wave4_unified_field_solver.py
+-290a9bbb1ddd8140e7e27c25a46ebf30012cf1c4c796e0d354f95a0a9f0ca327  wave5_unified_forces_stochastic_qm.py
++effc8ef25d4489d9cf2d6ea0c0af78d7707fb2c246038f191c8cda22e2a8762d  wave5_unified_forces_stochastic_qm.py
+ 894c89bf23fc0ad39add37e9565524b6993616cee44913b915a5dddb279d1b87  wave6_convergence_unification.py
+ 5de311fa11f22285f62cf82dd5cfc9e2651c2bfbe990fb194e6517171608dc29  wave7_group_cluster_threshold_audit.py
+ f502c82de78665195772549ce98d7d5000a5c4ea9fcb08084f182db569510a40  wave9_scale_convergence_audit.py
+ af8a2459aa8f5885250ab6b5914c50cc852bcc691982c8ef5cf692603bece927  wave10_covariant_jeans_unification.py
+-606431af2e1366cff43a658c65080f146789fe6e7159f317648cc621f7a8cb28  formal/verify_exact_rational_proofs.py
+-db6e4a202d357b5bd175b20b971b3a79e3b34a573382e2f0e5ed4341d0507562  formal/GravityClaims.lean
+-a097c2ea83cf1ad0788d8969427737c6e5b1d2250d6c1f3f529178e39903eeda  formal/Wave5StochasticForces.lean
+-fd52c8d997ccf9873cfd020f19f62b27dbfbdecda0234075ddd571193e0a9385  formal/Wave6Convergence.lean
+-41cd166341b517f3ab316ad5987cd9c74e5a2d443d763d948cde869d285a0672  formal/Wave7ThresholdAudit.lean
++d0acfe8ea3ab801f5538999979c3e4f69545b1734b02a998451d4263f69b3ce6  formal/verify_exact_rational_proofs.py
++c2e635f3af901aef8b51b529f46d2c16742c06c597a543e8cf518f4eb636f70e  formal/GravityClaims.lean
++0567cb57f5d9b27b2fef56851afbeeb55641ff1c1edc01b2b2de5bd5d390d6bd  formal/Wave5StochasticForces.lean
++b47eb026828e196bbe1fdd0f0bdfca9094c911de719e4598da5840a69db21c9b  formal/Wave6Convergence.lean
++a76c9e61cb011bbe1531c219d070be5aa549daca1537ef13fdd232cc9126c364  formal/Wave7ThresholdAudit.lean
+ fa0bcca1fd9350a35e5ffc4bb6969a02616fead2fd80b3aef725fcaaf84f73c8  formal/Wave10JeansDerivation.lean
+ dbd759302d4f7666f0e6505d8af3ad1b690f1e8283680b0dca9c31492151528e  results/certificates.json
+ 3ddae446816d764f94ba1d546317881cfe4036ce329da73b6894c27960914a9e  results/exact_rational_proof_certificates.json
+@@ -24,13 +24,15 @@ a44b03375f26452e66aac5324199e41aeb77092c668dbc2adf0342caccb32a7c  results/wave3_
+ 59fa0a13333e85298e573d4cc8487b0f9df0169d86e2b2d8784e79f5d926c475  results/wave9_scale_convergence_certificates.json
+ dd37a45adcb3c815d1a2d44bbbb58ac0235b9ea30d58d6b5a3438a46d91c874e  results/wave10_covariant_jeans_certificates.json
+ ea84eb79d2ab891fd5b151b6e0b3ee72fafda601d7b4e1c16157298c8da001ce  README.md
+-efd6e9acba39ec3dd86356df22edacc3d17761e205ac11420798de52290924a9  CLAIMS.md
++ec83f1c38eb8d4aa2a04d1ccb024d1b88c785b71fb0ab70fbd1e35a3af2d2a8f  CLAIMS.md
+ a08db487d924ae709e650df597eaab81da645aef6b9e7e326d26daf93f74dbca  METHODS_AND_PLAYBOOK.md
+ 7d678663f6689639039445d7fe972109a3234c7cd8220601b43c435431214c64  RESEARCH_NOTEBOOK_AND_REASONING.md
+-b95e0b1b867a876758f4751a0806bce54325f95d2ad8f4e25d801e0850e1a000  CHANGELOG.md
++04629ed8b7aa0c9eec8d3b831cc7160ba34e1fd7c26c9c1cb9f537204d2d856b  CHANGELOG.md
+ 88dd0f9827b2fa29292597c976695ce559d135d6d4867f59cde0d0de37426bda  wave11_machian_pairing_unification.py
+ 53cb171ed423ab98509f62017b68d2cce935c9b6468cd9e5f098a02b465c99b0  wave12_cosmic_dawn_quasar_collapse.py
+ fed7d58b8959cc68073bbf2020c7dca895fb4bac0b07adb9d95c3bee56d1c94b  results/wave11_machian_pairing_certificates.json
+ 78b988c2a6a83f23a8dc637626fdc63b9122579c2c3e37eaf9365deb2539ca79  results/wave12_cosmic_dawn_quasar_certificates.json
++781d83ac1bf12407f0a682b8abbe67a4ec101d78751ee0fa611c9a0f8a307573  formal/Wave11MachianZeroEnergy.lean
++40b210c201e72c195e159aabfa8c7eb2b8f4dbe578a066ff9eeef626ec5dee97  formal/Wave12QuasarCollapse.lean
+ 4a69d34265fe05e33f17a5afde1b529f508b4405753a300909d27ce41f14441c  test_wave11_12_corrections.py
+ 16edeec60b7a6ac3aab790021fab866273e95f508da8fb7ddebd5d6a78ff8bf1  WAVE11_12_CORRECTIONS.md
+diff --git a/formal/Wave12QuasarCollapse.lean b/formal/Wave12QuasarCollapse.lean
+index c59f796..c7cc8ef 100644
+--- a/formal/Wave12QuasarCollapse.lean
++++ b/formal/Wave12QuasarCollapse.lean
+@@ -19,7 +19,7 @@
+     3. c33_super_eddington_and_chirp_mass_bounds:
+        Checks over Int that both observed Eddington ratios (123/100 and 107/100) exceed unity
+        and that the binary chirp mass M_c for M_1 = 15 * 10^8 M_sun and M_2 = 4 * 10^8 M_sun
+-       satisfies 19 * (647)^5 < 15^3 * 4^2 * 10^10 < 19 * (648)^5 (i.e. 6.47e8 M_sun < M_c < 6.48e8 M_sun).
++       satisfies 19 * (647)^5 < 15^3 * 4^3 * 10^10 < 19 * (648)^5 (i.e. 6.47e8 M_sun < M_c < 6.48e8 M_sun).
+ 
+   NOTE: Certifies only the literal integer inequalities above; astrophysical seed formation,
+   lensing exclusion, and nonlinear AeST + phonon collapse at z = 6.08 remain model-dependent
+@@ -44,8 +44,8 @@ theorem c32_cosmic_dawn_condensate_trapping_inversion :
+ theorem c33_super_eddington_and_chirp_mass_bounds :
+     (100 : Int) < 123
+     /\ (100 : Int) < 107
+-    /\ (19 : Int) * (647 ^ 5) < (15 ^ 3) * (4 ^ 2) * (10 ^ 10)
+-    /\ (15 : Int) ^ 3 * (4 ^ 2) * (10 ^ 10) < 19 * (648 ^ 5) := by
++    /\ (19 : Int) * (647 ^ 5) < (15 ^ 3) * (4 ^ 3) * (10 ^ 10)
++    /\ (15 : Int) ^ 3 * (4 ^ 3) * (10 ^ 10) < 19 * (648 ^ 5) := by
+   decide
+ 
+ end Foundation0.Gravity.Wave12
+diff --git a/formal/Wave5StochasticForces.lean b/formal/Wave5StochasticForces.lean
+index 000b1c3..fdd842f 100644
+--- a/formal/Wave5StochasticForces.lean
++++ b/formal/Wave5StochasticForces.lean
+@@ -45,23 +45,12 @@ theorem claim_c16_bell_chsh_bounds :
+     4 * 2500 < 14641 /\ (4 : Int) < 8 := by
+   decide
+ 
+-end Foundation0.Gravity.Wave5
+-
+-  Foundation-0 / gravity -- Zero-Dependency Lean 4 Formal Verification (Wave 5)
+-  Machine-checkable formalization of C-12, C-14, and C-16 in stock Lean 4 `Init`.
+-  Disclosure: Written by AI agent (orda-aska / Gemini, Google, for Foundation-0); unreviewed by a person.
+-  License: Apache-2.0 (code) / CC-BY-4.0 (documentation & proofs).
+--/
+-
+-namespace Foundation0.Gravity.Wave5
+-
+-/-- Claim C-12: Cross-Scale Flux-Phase Log Slope Relation (-2 + 0 = 2 * (-1)) -/
+-theorem claim_c12_log_slope_relation : (-2 : Int) + 0 = 2 * (-1) := by decide
+-
+-/-- Claim C-14: Equivalence-Principle Mass-Scaling No-Go Discrepancy Bound -/
+-theorem claim_c14_wep_discrepancy_bound : 45570000 * 91095 < 415125 * 10^7 := by decide
++/-- Earlier equation-only C-12 arithmetic statement, retained separately.
++This historical statement does not replace the current comparison bounds. -/
++theorem claim_c12_log_slope_relation_legacy_arithmetic : (-2 : Int) + 0 = 2 * (-1) := by decide
+ 
+-/-- Claim C-16: Bell-CHSH Non-Locality Ceiling & Tsirelson Bound inequalities -/
+-theorem claim_c16_bell_chsh_bounds : 4 * 2500 < 14641 ∧ 4 < 8 := by decide
++/-- Earlier C-16 statement uses natural numbers for both comparisons.
++This historical statement does not replace the current comparison bounds. -/
++theorem claim_c16_bell_chsh_bounds_legacy_arithmetic : 4 * 2500 < 14641 ∧ 4 < 8 := by decide
+ 
+ end Foundation0.Gravity.Wave5
+diff --git a/formal/Wave6Convergence.lean b/formal/Wave6Convergence.lean
+index 39395fc..5524c08 100644
+--- a/formal/Wave6Convergence.lean
++++ b/formal/Wave6Convergence.lean
+@@ -76,25 +76,9 @@ theorem c20_centroid_diffusion_epoch_and_mass_invariant (piVal c RH hbar m : Int
+     _ = (((2 * (piVal * m)) * c) * RH) * hbar := congrArg (fun t => (((2 * t) * c) * RH) * hbar) (Int.mul_comm m piVal)
+     _ = ((((2 * piVal) * m) * c) * RH) * hbar := congrArg (fun t => ((t * c) * RH) * hbar) ((Int.mul_assoc 2 piVal m).symm)
+ 
+-end Foundation0.Gravity.Wave6
+-
+-  Foundation-0 / gravity -- Zero-Dependency Lean 4 Formal Verification (Wave 6)
+-  Machine-checkable formalization of C-18, C-19, and C-20 in stock Lean 4 `Init`.
+-  Disclosure: Written by AI agent (orda-aska / Gemini, Google, for Foundation-0); unreviewed by a person.
+-  License: Apache-2.0 (code) / CC-BY-4.0 (documentation & proofs).
+--/
+-
+-namespace Foundation0.Gravity.Wave6
+-
+-theorem c18_hbar_cancels_identically (twoPi M c RH hbar G : Int) :
+-    (twoPi * M * c * RH) * (hbar * G) * (c * c) = hbar * (c * c * c) * (twoPi * G * M * RH) := by
+-  simp [Int.mul_assoc, Int.mul_comm, Int.mul_left_comm]
+-
+-theorem c19_potential_depth_clean_window :
++/-- Earlier C-19 integer interval, retained as arithmetic only.
++The current certificate uses the interval in `c19_potential_depth_clean_window`. -/
++theorem c19_potential_depth_clean_window_legacy_arithmetic :
+     35 < 190 ∧ 190 < 650 ∧ 650 < 800 ∧ 5 * 800 < 6000 ∧ 30 * 190 < 6000 := by decide
+ 
+-theorem c20_centroid_diffusion_epoch_and_mass_invariant (piVal c RH hbar m : Int) :
+-    (piVal * c * RH * hbar) * (2 * m) = (2 * piVal * m * c * RH) * hbar := by
+-  simp [Int.mul_assoc, Int.mul_comm, Int.mul_left_comm]
+-
+ end Foundation0.Gravity.Wave6
+diff --git a/formal/Wave7ThresholdAudit.lean b/formal/Wave7ThresholdAudit.lean
+index a52de92..6d2527d 100644
+--- a/formal/Wave7ThresholdAudit.lean
++++ b/formal/Wave7ThresholdAudit.lean
+@@ -55,48 +55,4 @@ theorem c22_supply_capped_trapping_strictly_bounded (x s rSat : Int)
+   have h_one : 1 * s = s := Int.one_mul s
+   omega
+ 
+-end Foundation0.Gravity.Wave7
+-
+-  Foundation-0 / gravity — Wave-7 Lean 4 Formal Proofs of Empirical Threshold & Supply-Cap Bounds (C-21, C-22)
+-  Stock Lean 4 Init formal verification (zero external dependencies).
+-  Disclosure: Written by AI agent (Gemini, Google, via orda-aska for Foundation-0); not yet reviewed by a person.
+-  License: Apache-2.0 (code) / CC-BY-4.0 (documentation & proofs).
+--/
+-
+-namespace Foundation0.Gravity.Wave7
+-
+-theorem c21_stratified_onset_and_half_saturation_window :
+-    let sigma_lstar : Int := 152
+-    let sigma_crit : Int := 190
+-    let sigma_half : Int := 320
+-    let sigma_ngc4125 : Int := 283
+-    let sigma_w6 : Int := 388
+-    let sigma_50_sq : Int := sigma_crit * sigma_crit + sigma_half * sigma_half
+-    sigma_lstar < sigma_crit ∧
+-    sigma_crit < sigma_ngc4125 ∧
+-    sigma_ngc4125 < sigma_w6 ∧
+-    365 * 365 < sigma_50_sq ∧
+-    sigma_50_sq < 390 * 390 := by
+-  decide
+-
+-theorem c22_unbounded_tf_exceeds_cosmic_supply_cap :
+-    let ds_bullet : Int := 1000 * 1000 - 388 * 388
+-    let ds_macs : Int := 1494 * 1494 - 388 * 388
+-    11 * (ds_bullet * ds_bullet * ds_bullet) < (ds_macs * ds_macs * ds_macs) := by
+-  decide
+-
+-theorem c22_supply_capped_trapping_strictly_bounded (x s rSat : Int)
+-    (hs : 0 < s) (hr : 1 < rSat) :
+-    (x + s) + (rSat - 1) * x < rSat * (x + s) := by
+-  have h_expand_lhs : (x + s) + (rSat - 1) * x = rSat * x + s := by
+-    rw [Int.sub_mul, Int.one_mul]
+-    omega
+-  have h_expand_rhs : rSat * (x + s) = rSat * x + rSat * s := by
+-    rw [Int.mul_add]
+-  rw [h_expand_lhs, h_expand_rhs]
+-  have h_diff : s < rSat * s := by
+-    have h1 : 1 * s < rSat * s := Int.mul_lt_mul_of_pos_right hr hs
+-    simpa [Int.one_mul] using h1
+-  omega
+-
+ end Foundation0.Gravity.Wave7
+diff --git a/results/wave4_unified_certificates.json b/results/wave4_unified_certificates.json
+index f6b0833..4c46bd7 100644
+--- a/results/wave4_unified_certificates.json
++++ b/results/wave4_unified_certificates.json
+@@ -128,5 +128,5 @@
+       }
+     ]
+   },
+-  "sha_26_canonical": "1a7f2ff0182b66d1a081e59e750b493afa6beaab0d976c5af2c6c72652d4452d"
++  "sha256_canonical": "1a7f2ff0182b66d1a081e59e750b493afa6beaab0d976c5af2c6c72652d4452d"
+ }

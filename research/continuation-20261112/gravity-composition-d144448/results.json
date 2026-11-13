@@ -1,0 +1,168 @@
+{
+  "base": "d1444481cdefc59a275ede2fef740ea2cf48eeec",
+  "source_heads": {
+    "10": "57fece7db800233765eea32350f57f52d74362dc",
+    "13": "cce0284d03efb5c5c6ce8a70014ea436d7a3a801",
+    "14": "b473fc9c30378862cd66d5d69b555842144febed",
+    "15": "ca55815cd2ca6f43356cc7ad5a7148fa83cec030"
+  },
+  "replay_base": "cce0284d03efb5c5c6ce8a70014ea436d7a3a801",
+  "replay_patch_sha256": "7c2afde0d7f261238d345fddccf99df46c3ce14dee6d71dc690ff7ca32cb5162",
+  "composed_manifest_sha256": "f7ccea7172606dc6804332f3fc383e88dc2b296d22a2a8b324261faffb0d7f96",
+  "checks": {
+    "lake_build": {
+      "passed": true,
+      "jobs": 15,
+      "warning": "Existing Wave10 unused hPos"
+    },
+    "correction_tests": {
+      "passed": true,
+      "count": 7
+    },
+    "wave11_check": true,
+    "wave12_check": true,
+    "wave4_check": true,
+    "manifest": {
+      "passed": true,
+      "entries": 39
+    },
+    "diff_check": true,
+    "source_bytes": [
+      {
+        "path": "formal/GravityClaims.lean",
+        "source": "cce0284d03efb5c5c6ce8a70014ea436d7a3a801"
+      },
+      {
+        "path": "formal/Wave10JeansDerivation.lean",
+        "source": "cce0284d03efb5c5c6ce8a70014ea436d7a3a801"
+      },
+      {
+        "path": "formal/Wave11MachianZeroEnergy.lean",
+        "source": "cce0284d03efb5c5c6ce8a70014ea436d7a3a801"
+      },
+      {
+        "path": "formal/Wave12QuasarCollapse.lean",
+        "source": "57fece7db800233765eea32350f57f52d74362dc"
+      },
+      {
+        "path": "formal/Wave5StochasticForces.lean",
+        "source": "b473fc9c30378862cd66d5d69b555842144febed"
+      },
+      {
+        "path": "formal/Wave6Convergence.lean",
+        "source": "b473fc9c30378862cd66d5d69b555842144febed"
+      },
+      {
+        "path": "formal/Wave7ThresholdAudit.lean",
+        "source": "b473fc9c30378862cd66d5d69b555842144febed"
+      },
+      {
+        "path": "formal/verify_exact_rational_proofs.py",
+        "source": "cce0284d03efb5c5c6ce8a70014ea436d7a3a801"
+      },
+      {
+        "path": "research/update-d144448-review/implementation/check_docs.py",
+        "source": "cce0284d03efb5c5c6ce8a70014ea436d7a3a801"
+      },
+      {
+        "path": "research/wave11-12-review-20261112/check.py",
+        "source": "cce0284d03efb5c5c6ce8a70014ea436d7a3a801"
+      },
+      {
+        "path": "results/certificates.json",
+        "source": "cce0284d03efb5c5c6ce8a70014ea436d7a3a801"
+      },
+      {
+        "path": "results/exact_rational_proof_certificates.json",
+        "source": "cce0284d03efb5c5c6ce8a70014ea436d7a3a801"
+      },
+      {
+        "path": "results/wave10_covariant_jeans_certificates.json",
+        "source": "cce0284d03efb5c5c6ce8a70014ea436d7a3a801"
+      },
+      {
+        "path": "results/wave11_machian_pairing_certificates.json",
+        "source": "cce0284d03efb5c5c6ce8a70014ea436d7a3a801"
+      },
+      {
+        "path": "results/wave12_cosmic_dawn_quasar_certificates.json",
+        "source": "cce0284d03efb5c5c6ce8a70014ea436d7a3a801"
+      },
+      {
+        "path": "results/wave3_empirical_certificates.json",
+        "source": "cce0284d03efb5c5c6ce8a70014ea436d7a3a801"
+      },
+      {
+        "path": "results/wave4_unified_certificates.json",
+        "source": "ca55815cd2ca6f43356cc7ad5a7148fa83cec030"
+      },
+      {
+        "path": "results/wave5_forces_stochastic_certificates.json",
+        "source": "cce0284d03efb5c5c6ce8a70014ea436d7a3a801"
+      },
+      {
+        "path": "results/wave6_convergence_certificates.json",
+        "source": "cce0284d03efb5c5c6ce8a70014ea436d7a3a801"
+      },
+      {
+        "path": "results/wave7_group_cluster_certificates.json",
+        "source": "cce0284d03efb5c5c6ce8a70014ea436d7a3a801"
+      },
+      {
+        "path": "results/wave9_scale_convergence_certificates.json",
+        "source": "cce0284d03efb5c5c6ce8a70014ea436d7a3a801"
+      },
+      {
+        "path": "test_wave11_12_corrections.py",
+        "source": "cce0284d03efb5c5c6ce8a70014ea436d7a3a801"
+      },
+      {
+        "path": "verify_all.py",
+        "source": "cce0284d03efb5c5c6ce8a70014ea436d7a3a801"
+      },
+      {
+        "path": "wave10_covariant_jeans_unification.py",
+        "source": "cce0284d03efb5c5c6ce8a70014ea436d7a3a801"
+      },
+      {
+        "path": "wave11_machian_pairing_unification.py",
+        "source": "cce0284d03efb5c5c6ce8a70014ea436d7a3a801"
+      },
+      {
+        "path": "wave12_cosmic_dawn_quasar_collapse.py",
+        "source": "cce0284d03efb5c5c6ce8a70014ea436d7a3a801"
+      },
+      {
+        "path": "wave3_empirical_audit.py",
+        "source": "cce0284d03efb5c5c6ce8a70014ea436d7a3a801"
+      },
+      {
+        "path": "wave4_unified_field_solver.py",
+        "source": "cce0284d03efb5c5c6ce8a70014ea436d7a3a801"
+      },
+      {
+        "path": "wave5_unified_forces_stochastic_qm.py",
+        "source": "cce0284d03efb5c5c6ce8a70014ea436d7a3a801"
+      },
+      {
+        "path": "wave6_convergence_unification.py",
+        "source": "cce0284d03efb5c5c6ce8a70014ea436d7a3a801"
+      },
+      {
+        "path": "wave7_group_cluster_threshold_audit.py",
+        "source": "cce0284d03efb5c5c6ce8a70014ea436d7a3a801"
+      },
+      {
+        "path": "wave9_scale_convergence_audit.py",
+        "source": "cce0284d03efb5c5c6ce8a70014ea436d7a3a801"
+      }
+    ]
+  },
+  "replay_verification": {
+    "fresh_patch_apply": true,
+    "all_tracked_files_identical": 53,
+    "manifest_passed": true,
+    "diff_check": true
+  },
+  "merged_to_main": false
+}
