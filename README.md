@@ -11,10 +11,10 @@ it grows beyond that (code, certificates, verifiers, data), it gets its own repo
 
 | project | question | status |
 |---|---|---|
-| [point-charges](https://github.com/Foundation-0/point-charges) | How many equilibria can $n$ point charges have? (Maxwell, 1873) | Certified exact counts: 4 charges reach Maxwell's bound of 9; an explicit 5-charge counterexample has exactly 24; 6 charges have 29, above the bound of 25. Evidence for the open 3- and 4-charge cases. Reviewed by an independent AI agent (point-charges PR #1); not yet reviewed by a person. |
+| [point-charges](https://github.com/Foundation-0/point-charges) | How many equilibria can $n$ point charges have? (Maxwell, 1873) | Certified exact counts: 4 charges reach Maxwell's bound of 9; an explicit 5-charge counterexample has exactly 24; 6 charges have 29, above the bound of 25. 7 charges have 44, above the bound of 36, proved by the independent verifier only so far (the float certifier is tracked in point-charges issue #12). Evidence for the open 3- and 4-charge cases. Reviewed by an independent AI agent (point-charges PR #1); not yet reviewed by a person. |
 | [relative-equilibria](https://github.com/Foundation-0/relative-equilibria) | Exactly how many equilibrium shapes do 8 equal masses, and 5 to 7 identical point vortices, have? | Not started. |
 | [certified-orbits](https://github.com/Foundation-0/certified-orbits) | Which published numerical periodic orbits of the three-body problem provably exist? | Not started. |
-| [rigid-realizations](https://github.com/Foundation-0/rigid-realizations) (with [math0](https://github.com/Foundation-0/math0)) | Can all 880 complex realizations of the 10-vertex rigid framework be real? | Not started. |
+| [rigid-realizations](https://github.com/Foundation-0/rigid-realizations) (with [math0](https://github.com/Foundation-0/math0)) | Can all 880 complex realizations of the 10-vertex rigid framework be real? | Claimed, pending independent verification: all 880 realizations are real (r_2(10) = c_2(10) = 880), with certificates in the repository. |
 | [wwssn-microseisms](https://github.com/Foundation-0/wwssn-microseisms) | Did ocean wave energy, recorded as seismic microseisms, change between 1962–78 and today? | Not started. |
 
 
