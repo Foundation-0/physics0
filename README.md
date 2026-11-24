@@ -18,6 +18,10 @@ it grows beyond that (code, certificates, verifiers, data), it gets its own repo
 | [wwssn-microseisms](https://github.com/Foundation-0/wwssn-microseisms) | Did ocean wave energy, recorded as seismic microseisms, change between 1962–78 and today? | Not started. |
 
 
+## Connections across Foundation0
+
+[Research note: geometry, recurrence and independent constraints](notes/convergences-20261112.md) connects this repository to the 12 November 2026 convergence study. It separates published evidence, model calculations and proposed tests.
+
 ## Where next
 
 [AREAS.md](AREAS.md) surveys open physics questions where people working with AI agents can make checkable
