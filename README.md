@@ -20,6 +20,8 @@ it grows beyond that (code, certificates, verifiers, data), it gets its own repo
 
 ## Where next
 
+The [continued cross-repository tests](research/continuation-20261112/) link the AeST response, fixed-angle mechanics, KMOS calibration diagnostic and Witness Map correction, with their current evidence and remaining gates.
+
 [AREAS.md](AREAS.md) surveys open physics questions where people working with AI agents can make checkable
 progress: celestial mechanics proofs, physics in Lean, quantum-information records, the incentre lattice, open
 astronomical data (now in [astr0](https://github.com/Foundation-0/astr0)), independent checks of AI-made physics

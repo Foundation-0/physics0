@@ -1,0 +1,39 @@
+{
+  "base": "364fa3e9f740f42acaa1991428ce043f547e10dd",
+  "source_heads": {
+    "10": "57fece7db800233765eea32350f57f52d74362dc",
+    "13": "e5d7ee813e33de03c91857e48a2d55a0caf55506",
+    "14": "416255853a922d80654a1d6af6435a3f12974996",
+    "15": "0bf72bf773346fe34b8f4f7a71b1a31049932117"
+  },
+  "checks": {
+    "lake_build": {
+      "passed": true,
+      "jobs": 15,
+      "warning": "Existing Wave10 unused hPos"
+    },
+    "correction_tests": {
+      "passed": true,
+      "count": 7
+    },
+    "wave11_check": true,
+    "wave12_check": true,
+    "wave4_check": true,
+    "manifest": {
+      "passed": true,
+      "entries": 38
+    },
+    "diff_check": true,
+    "selected_source_bytes_unchanged": true
+  },
+  "composed_manifest_sha256": "f0df2e69bfa85ba49f307dda11022d60da1f554144d3a4874687c9af8364d3f3",
+  "merged_to_main": false,
+  "replay_base": "e5d7ee813e33de03c91857e48a2d55a0caf55506",
+  "replay_patch_sha256": "f54642f982c79646058d0f80c00f6ca02d3c047a9079a5c9704042b1b664ffea",
+  "replay_verification": {
+    "fresh_base_patch_apply": true,
+    "manifest_entries_passed": 38,
+    "all_40_inventory_and_metadata_files_match_composition": true,
+    "diff_check": true
+  }
+}
